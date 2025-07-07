@@ -1,0 +1,9 @@
+{
+  "domain": "entity_category_exporter",
+  "name": "Entity Category Exporter",
+  "version": "1.0.0",
+  "documentation": "https://github.com/yourname/entity_category_exporter",
+  "requirements": ["pandas", "openpyxl"],
+  "dependencies": [],
+  "codeowners": ["@yourname"]
+}

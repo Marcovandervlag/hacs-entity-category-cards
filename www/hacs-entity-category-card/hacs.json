@@ -1,0 +1,10 @@
+{
+  "name": "HACS Entity Category Card",
+  "content_in_root": false,
+  "filename": "hacs-entity-category-card.js",
+  "domains": ["lovelace"],
+  "country": "NL",
+  "homeassistant": ">=2022.6.0",
+  "render_readme": true,
+  "description": "A modern animated card to display Home Assistant entities by category/domain."
+}

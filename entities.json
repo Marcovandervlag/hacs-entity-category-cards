@@ -1,0 +1,5736 @@
+[
+  {
+    "Entity ID": "automation.afvalherinnering_restafval",
+    "Friendly Name": "Afval ophalen reminder",
+    "off\tid": "1750004301195",
+    "last_triggered": "2025-06-15T17:38:45.314274+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Afval ophalen reminder"
+  },
+  {
+    "Entity ID": "automation.baterij_stofzuiger",
+    "Friendly Name": "Baterij stofzuiger",
+    "on\tid": "1749381247577",
+    "last_triggered": "2025-06-20T19:18:24.949672+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Baterij stofzuiger"
+  },
+  {
+    "Entity ID": "automation.beweging_sensor",
+    "Friendly Name": "Beweging sensor",
+    "on\tid": "1749584483068",
+    "last_triggered": "2025-07-05T23:04:49.420491+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Beweging sensor"
+  },
+  {
+    "Entity ID": "automation.bewegingsdetectie_opname_met_terugblik",
+    "Friendly Name": "Bewegingsdetectie - Opname met terugblik",
+    "on\tid": "1750407772405",
+    "last_triggered": "2025-07-07T15:28:03.384404+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Bewegingsdetectie - Opname met terugblik"
+  },
+  {
+    "Entity ID": "automation.daily_copy_tapo_videos_to_pc",
+    "Friendly Name": "Daily: Copy Tapo Videos to PC",
+    "unavailable\trestored": "true",
+    "id": "1718733000",
+    "friendly_name": "Daily: Copy Tapo Videos to PC",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "automation.daily_copy_tapo_videos_to_pc_2",
+    "Friendly Name": "Daily: Copy Tapo Videos to PC",
+    "unavailable\trestored": "true",
+    "id": "Daily: Copy Tapo Videos to PC",
+    "friendly_name": "Daily: Copy Tapo Videos to PC",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "automation.f1_notificatie",
+    "Friendly Name": "F1 Notificatie",
+    "on\tid": "1749495419666",
+    "last_triggered": "2025-07-06T13:30:00.002565+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "F1 Notificatie"
+  },
+  {
+    "Entity ID": "automation.fulltime_kantoren_aan_uit",
+    "Friendly Name": "Kantoor + PC aan",
+    "on\tid": "1747772430527",
+    "last_triggered": "2025-07-05T20:13:19.388457+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:office-building-plus",
+    "friendly_name": "Kantoor + PC aan"
+  },
+  {
+    "Entity ID": "automation.herstart_stofzuiger_via_notificatie_knop",
+    "Friendly Name": "Herstart stofzuiger via notificatie knop",
+    "on\tid": "1749750207443",
+    "last_triggered": "2025-07-03T14:19:53.389280+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Herstart stofzuiger via notificatie knop"
+  },
+  {
+    "Entity ID": "automation.ikea_styrbar_e2001_e2002_full_control_via_zigbee2mqtt",
+    "Friendly Name": "Ikea Afstandsbediening",
+    "on\tid": "1749746485720",
+    "last_triggered": "2025-07-06T21:24:41.718029+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:remote-tv",
+    "friendly_name": "Ikea Afstandsbediening"
+  },
+  {
+    "Entity ID": "automation.ledstrip_tv_aan_automatisch",
+    "Friendly Name": "Ledstrip TV aan automatisch",
+    "off\tid": "1747659838923",
+    "last_triggered": "2025-06-15T13:01:06.220856+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Ledstrip TV aan automatisch"
+  },
+  {
+    "Entity ID": "automation.ledstrip_uit_automatisch",
+    "Friendly Name": "Ledstrip uit automatisch",
+    "off\tid": "1747659640480",
+    "last_triggered": "2025-06-20T07:07:21.767444+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Ledstrip uit automatisch"
+  },
+  {
+    "Entity ID": "automation.manual_fan_change_disables_auto_mode",
+    "Friendly Name": "Manual fan change disables auto mode",
+    "off\tid": "1751803883281",
+    "last_triggered": "2025-07-07T11:14:02.369834+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Manual fan change disables auto mode"
+  },
+  {
+    "Entity ID": "automation.mark_waste_as_moved_from_notification",
+    "Friendly Name": "Mark waste as moved from notification",
+    "off\tid": "1750172089588",
+    "last_triggered": "2025-06-17T15:00:50.818279+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Mark waste as moved from notification"
+  },
+  {
+    "Entity ID": "automation.nieuwe_automatisering",
+    "Friendly Name": "Synchroniseer kleur van Hue naar IKEA lamp met kleur en helderheid",
+    "off\tid": "1749728904234",
+    "last_triggered": "2025-06-20T07:46:06.978485+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Synchroniseer kleur van Hue naar IKEA lamp met kleur en helderheid"
+  },
+  {
+    "Entity ID": "automation.nieuwe_automatisering_2",
+    "Friendly Name": "Stofzuiger is vol",
+    "on\tid": "1749381033474",
+    "last_triggered": "2025-07-07T16:08:43.388410+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Stofzuiger is vol"
+  },
+  {
+    "Entity ID": "automation.notify_when_gerard_vacuum_position_changes",
+    "Friendly Name": "Notify on R2D2 Error or Position Change",
+    "on\tid": "notify_vacuum_position_change",
+    "last_triggered": "2025-07-07T15:52:51.561446+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:robot-vacuum-alert",
+    "friendly_name": "Notify on R2D2 Error or Position Change"
+  },
+  {
+    "Entity ID": "automation.reset_waste_notification",
+    "Friendly Name": "Reset waste notification",
+    "on\tid": "1750172058936",
+    "last_triggered": "2025-06-25T06:00:30.041352+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Reset waste notification"
+  },
+  {
+    "Entity ID": "automation.starkvind_regel_ventilator_op_luchtkwaliteit",
+    "Friendly Name": "STARKVIND - Manual Auto Mode via PM2.5",
+    "on\tid": "1751733066663",
+    "last_triggered": "2025-07-07T16:46:52.273249+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "STARKVIND - Manual Auto Mode via PM2.5"
+  },
+  {
+    "Entity ID": "automation.stofzuiger",
+    "Friendly Name": "Stofzuiger",
+    "off\tid": "1749588087736",
+    "last_triggered": "2025-06-15T13:28:57.977075+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Stofzuiger"
+  },
+  {
+    "Entity ID": "automation.stofzuiger_is_klaar",
+    "Friendly Name": "Stofzuiger is klaar",
+    "unavailable\trestored": "true",
+    "id": "1749386659854",
+    "friendly_name": "Stofzuiger is klaar",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "automation.stofzuiger_is_klaar_2",
+    "Friendly Name": "Stofzuiger is klaar",
+    "off\tid": "Stofzuiger is klaar",
+    "last_triggered": "2025-06-20T12:48:25.874961+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Stofzuiger is klaar"
+  },
+  {
+    "Entity ID": "automation.stofzuiger_start",
+    "Friendly Name": "Stofzuiger start",
+    "unavailable\trestored": "true",
+    "id": "1749384949469",
+    "friendly_name": "Stofzuiger start",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "automation.stofzuiger_start_2",
+    "Friendly Name": "Stofzuiger start",
+    "off\tid": "Stofzuiger start",
+    "last_triggered": "null",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Stofzuiger start"
+  },
+  {
+    "Entity ID": "automation.stofzuiger_terug",
+    "Friendly Name": "Stofzuiger terug",
+    "on\tid": "1749750632078",
+    "last_triggered": "2025-07-07T16:11:26.137574+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Stofzuiger terug"
+  },
+  {
+    "Entity ID": "automation.update_ip_video_folder_size_daily",
+    "Friendly Name": "Update IP Video Folder Size Daily",
+    "on\tid": "update_ipvideo_folder_size_daily",
+    "last_triggered": "2025-07-07T16:30:00.367140+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Update IP Video Folder Size Daily"
+  },
+  {
+    "Entity ID": "automation.vakantie",
+    "Friendly Name": "Lampen met zonsondergang aan",
+    "on\tid": "1750073668039",
+    "last_triggered": "2025-07-06T19:58:35.146593+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Lampen met zonsondergang aan"
+  },
+  {
+    "Entity ID": "automation.vakantie_2",
+    "Friendly Name": "Vakantie_2",
+    "off\tid": "1750073718439",
+    "last_triggered": "2025-06-17T21:30:00.370458+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Vakantie_2"
+  },
+  {
+    "Entity ID": "automation.verwijder_oude_videobestanden_30_dagen",
+    "Friendly Name": "Verwijder oude videobestanden (30 dagen)",
+    "on\tid": "1750408216900",
+    "last_triggered": "2025-07-07T01:00:00.068448+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Verwijder oude videobestanden (30 dagen)"
+  },
+  {
+    "Entity ID": "automation.waste_has_not_been_moved",
+    "Friendly Name": "Waste has not been moved",
+    "off\tid": "1750172148620",
+    "last_triggered": "2025-06-25T18:00:00.218527+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Waste has not been moved"
+  },
+  {
+    "Entity ID": "binary_sensor.0x90395efffe479903_replace_filter",
+    "Friendly Name": "Ikea_Luchtreiniger Replace filter",
+    "off\tfriendly_name": "Ikea_Luchtreiniger Replace filter"
+  },
+  {
+    "Entity ID": "binary_sensor.192_168_1_75",
+    "Friendly Name": "192.168.1.75",
+    "on\tdevice_class": "connectivity",
+    "friendly_name": "192.168.1.75"
+  },
+  {
+    "Entity ID": "binary_sensor.camera_cell_motion_detection",
+    "Friendly Name": "Camera Cell Motion Detection",
+    "off\tdevice_class": "motion",
+    "friendly_name": "Camera Cell Motion Detection"
+  },
+  {
+    "Entity ID": "binary_sensor.camera_motion_alarm",
+    "Friendly Name": "Camera Motion Alarm",
+    "off\tdevice_class": "motion",
+    "friendly_name": "Camera Motion Alarm"
+  },
+  {
+    "Entity ID": "binary_sensor.camera_noise",
+    "Friendly Name": "Camera Noise",
+    "off\tdevice_class": "sound",
+    "friendly_name": "Camera Noise"
+  },
+  {
+    "Entity ID": "binary_sensor.camera_person_detection",
+    "Friendly Name": "Camera Person Detection",
+    "on\tdevice_class": "motion",
+    "friendly_name": "Camera Person Detection"
+  },
+  {
+    "Entity ID": "binary_sensor.ex5601_t1_wan_status",
+    "Friendly Name": "EX5601-T1 WAN status",
+    "on\tdevice_class": "connectivity",
+    "friendly_name": "EX5601-T1 WAN status"
+  },
+  {
+    "Entity ID": "binary_sensor.f1_race_week",
+    "Friendly Name": "F1_race_week",
+    "False\tdays_until_next_race": "20",
+    "next_race_name": "Belgian Grand Prix",
+    "device_class": "occupancy",
+    "icon": "mdi:calendar-range",
+    "friendly_name": "F1_race_week"
+  },
+  {
+    "Entity ID": "binary_sensor.gamingbureau",
+    "Friendly Name": "Gamingbureau",
+    "off\tdevice_class": "running",
+    "friendly_name": "Gamingbureau"
+  },
+  {
+    "Entity ID": "binary_sensor.gerard_bin_full",
+    "Friendly Name": "Gerard Bin full",
+    "off\tfriendly_name": "Gerard Bin full"
+  },
+  {
+    "Entity ID": "binary_sensor.gft_over_10_dagen",
+    "Friendly Name": "GFT over 10 dagen",
+    "unavailable\trestored": "true",
+    "friendly_name": "GFT over 10 dagen",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "binary_sensor.matter_server_actief",
+    "Friendly Name": "Matter Server Actief",
+    "on\tdevice_class": "running",
+    "friendly_name": "Matter Server Actief"
+  },
+  {
+    "Entity ID": "binary_sensor.motion_sensor_occupancy",
+    "Friendly Name": "Motion Sensor Bezetting",
+    "off\tdevice_class": "occupancy",
+    "friendly_name": "Motion Sensor Bezetting"
+  },
+  {
+    "Entity ID": "binary_sensor.music_assistant_server_actief",
+    "Friendly Name": "Music Assistant Server Actief",
+    "off\tdevice_class": "running",
+    "friendly_name": "Music Assistant Server Actief"
+  },
+  {
+    "Entity ID": "binary_sensor.papier_over_10_dagen",
+    "Friendly Name": "Papier over 10 dagen",
+    "unavailable\trestored": "true",
+    "friendly_name": "Papier over 10 dagen",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "binary_sensor.pmd_over_10_dagen",
+    "Friendly Name": "PMD over 10 dagen",
+    "unavailable\trestored": "true",
+    "friendly_name": "PMD over 10 dagen",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "binary_sensor.restafval_over_10_dagen",
+    "Friendly Name": "Restafval over 10 dagen",
+    "unavailable\trestored": "true",
+    "friendly_name": "Restafval over 10 dagen",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "binary_sensor.s22ultra_mama_high_accuracy_mode",
+    "Friendly Name": "S22Ultra Mama High accuracy mode",
+    "unknown\ticon": "mdi:crosshairs-gps",
+    "friendly_name": "S22Ultra Mama High accuracy mode"
+  },
+  {
+    "Entity ID": "binary_sensor.s25ultra_android_auto",
+    "Friendly Name": "S25Ultra Android Auto",
+    "off\tconnection_type": "Disconnected",
+    "device_class": "connectivity",
+    "icon": "mdi:car-off",
+    "friendly_name": "S25Ultra Android Auto"
+  },
+  {
+    "Entity ID": "binary_sensor.samsung_a12_doze_mode",
+    "Friendly Name": "Samsung A12 Doze mode",
+    "off\tignoring_battery_optimizations": "true",
+    "icon": "mdi:sleep-off",
+    "friendly_name": "Samsung A12 Doze mode"
+  },
+  {
+    "Entity ID": "binary_sensor.samsung_a12_high_accuracy_mode",
+    "Friendly Name": "Samsung A12 High accuracy mode",
+    "off\ticon": "mdi:crosshairs-gps",
+    "friendly_name": "Samsung A12 High accuracy mode"
+  },
+  {
+    "Entity ID": "binary_sensor.samsung_a12_interactive",
+    "Friendly Name": "Samsung A12 Interactive",
+    "on\ticon": "mdi:cellphone",
+    "friendly_name": "Samsung A12 Interactive"
+  },
+  {
+    "Entity ID": "binary_sensor.samsung_a12_is_charging",
+    "Friendly Name": "Samsung A12 Is charging",
+    "off\tdevice_class": "plug",
+    "icon": "mdi:power-plug-off",
+    "friendly_name": "Samsung A12 Is charging"
+  },
+  {
+    "Entity ID": "binary_sensor.samsung_a12_power_save",
+    "Friendly Name": "Samsung A12 Power save",
+    "off\ticon": "mdi:battery-plus",
+    "friendly_name": "Samsung A12 Power save"
+  },
+  {
+    "Entity ID": "binary_sensor.system_monitor_process_ffmpeg",
+    "Friendly Name": "System Monitor Process ffmpeg",
+    "on\tdevice_class": "running",
+    "icon": "mdi:cpu-64-bit",
+    "friendly_name": "System Monitor Process ffmpeg"
+  },
+  {
+    "Entity ID": "binary_sensor.zigbee2mqtt_bridge_connection_state",
+    "Friendly Name": "Zigbee2MQTT Bridge Connection state",
+    "on\tdevice_class": "connectivity",
+    "friendly_name": "Zigbee2MQTT Bridge Connection state"
+  },
+  {
+    "Entity ID": "binary_sensor.zigbee2mqtt_bridge_restart_required",
+    "Friendly Name": "Zigbee2MQTT Bridge Restart required",
+    "off\tdevice_class": "problem",
+    "friendly_name": "Zigbee2MQTT Bridge Restart required"
+  },
+  {
+    "Entity ID": "button.0x90395efffe479903_identify",
+    "Friendly Name": "Ikea_Luchtreiniger Identificeren",
+    "unknown\tdevice_class": "identify",
+    "friendly_name": "Ikea_Luchtreiniger Identificeren"
+  },
+  {
+    "Entity ID": "button.camera_calibrate",
+    "Friendly Name": "Camera Calibrate",
+    "unknown\tfriendly_name": "Camera Calibrate"
+  },
+  {
+    "Entity ID": "button.camera_format_sd_card",
+    "Friendly Name": "Camera Format SD Card",
+    "unknown\ticon": "mdi:eraser",
+    "friendly_name": "Camera Format SD Card"
+  },
+  {
+    "Entity ID": "button.camera_manual_alarm_start",
+    "Friendly Name": "Camera Manual Alarm Start",
+    "unknown\ticon": "mdi:alarm-light-outline",
+    "friendly_name": "Camera Manual Alarm Start"
+  },
+  {
+    "Entity ID": "button.camera_manual_alarm_stop",
+    "Friendly Name": "Camera Manual Alarm Stop",
+    "unknown\ticon": "mdi:alarm-light-off-outline",
+    "friendly_name": "Camera Manual Alarm Stop"
+  },
+  {
+    "Entity ID": "button.camera_move_down",
+    "Friendly Name": "Camera Move Down",
+    "unknown\ticon": "mdi:arrow-down",
+    "friendly_name": "Camera Move Down"
+  },
+  {
+    "Entity ID": "button.camera_move_left",
+    "Friendly Name": "Camera Move Left",
+    "unknown\ticon": "mdi:arrow-left",
+    "friendly_name": "Camera Move Left"
+  },
+  {
+    "Entity ID": "button.camera_move_right",
+    "Friendly Name": "Camera Move Right",
+    "unknown\ticon": "mdi:arrow-right",
+    "friendly_name": "Camera Move Right"
+  },
+  {
+    "Entity ID": "button.camera_move_up",
+    "Friendly Name": "Camera Move Up",
+    "unknown\ticon": "mdi:arrow-up",
+    "friendly_name": "Camera Move Up"
+  },
+  {
+    "Entity ID": "button.camera_reboot",
+    "Friendly Name": "Camera Reboot",
+    "unknown\tdevice_class": "restart",
+    "friendly_name": "Camera Reboot"
+  },
+  {
+    "Entity ID": "button.camera_sync_time",
+    "Friendly Name": "Camera Sync Time",
+    "unknown\tclock_data": "",
+    "local_time": "'2025-07-07 18:47:02'",
+    "seconds_from_1970": "1751910422",
+    "dst_data": "",
+    "enabled": "'0'",
+    "synced": "'0'",
+    "has_rule": "'1'",
+    "dst_rule": "DST-02:00,M3.5.0/02:00:00,M10.5.0/03:00:00",
+    "icon": "mdi:timer-sync-outline",
+    "friendly_name": "Camera Sync Time"
+  },
+  {
+    "Entity ID": "button.ikea_lamp_bureau_identify",
+    "Friendly Name": "IKEA lamp bureau Identificeren",
+    "unknown\tdevice_class": "identify",
+    "friendly_name": "IKEA lamp bureau Identificeren"
+  },
+  {
+    "Entity ID": "button.ikea_remote_identify",
+    "Friendly Name": "IKEA remote Identificeren",
+    "unknown\tdevice_class": "identify",
+    "friendly_name": "IKEA remote Identificeren"
+  },
+  {
+    "Entity ID": "button.ikea_stopcontact_identify",
+    "Friendly Name": "IKEA stopcontact Identificeren",
+    "unknown\tdevice_class": "identify",
+    "friendly_name": "IKEA stopcontact Identificeren"
+  },
+  {
+    "Entity ID": "button.klimaat_identify",
+    "Friendly Name": "Klimaat Identificeren",
+    "unknown\tdevice_class": "identify",
+    "friendly_name": "Klimaat Identificeren"
+  },
+  {
+    "Entity ID": "button.marco_pc_marco_pc_herstart",
+    "Friendly Name": "marco-pc marco-pc_herstart",
+    "unknown\tfriendly_name": "marco-pc marco-pc_herstart"
+  },
+  {
+    "Entity ID": "button.marco_pc_tapo_copy",
+    "Friendly Name": "marco-pc tapo_copy",
+    "unknown\tfriendly_name": "marco-pc tapo_copy"
+  },
+  {
+    "Entity ID": "button.marco_pc_w11marco_afsluiten",
+    "Friendly Name": "marco-pc W11MARCO_afsluiten",
+    "unknown\tfriendly_name": "marco-pc W11MARCO_afsluiten"
+  },
+  {
+    "Entity ID": "button.motion_sensor_identify",
+    "Friendly Name": "Motion Sensor Identificeren",
+    "unknown\tdevice_class": "identify",
+    "friendly_name": "Motion Sensor Identificeren"
+  },
+  {
+    "Entity ID": "button.wake_on_lan_desktop_marco",
+    "Friendly Name": "2025-06-23T08:00:10.342183+00:00"
+  },
+  {
+    "Entity ID": "button.zigbee2mqtt_bridge_restart",
+    "Friendly Name": "Zigbee2MQTT Bridge Restart",
+    "unknown\tdevice_class": "restart",
+    "friendly_name": "Zigbee2MQTT Bridge Restart"
+  },
+  {
+    "Entity ID": "calendar.formule_1",
+    "Friendly Name": "Formule 1",
+    "off\tmessage": "RN365 België - Sprintkwalificatie",
+    "all_day": "false",
+    "start_time": "2025-07-25 16:30:00",
+    "end_time": "2025-07-25 17:14:00",
+    "location": "Spa-Francorchamps, francochamps",
+    "description": "",
+    "friendly_name": "Formule 1",
+    "supported_features": "7"
+  },
+  {
+    "Entity ID": "camera.ad5m_camera",
+    "Friendly Name": "AD5M camera",
+    "idle\taccess_token": "21d09a58382be2abe7fda2a1edded67930b49bd1ee604f2bfbf277d50819c754",
+    "entity_picture": "/api/camera_proxy/camera.ad5m_camera?token=21d09a58382be2abe7fda2a1edded67930b49bd1ee604f2bfbf277d50819c754",
+    "friendly_name": "AD5M camera",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "camera.buienradar",
+    "Friendly Name": "Buienradar",
+    "idle\taccess_token": "1b24ae1fc074a26b3de29e447db9fb0bf44c67eb03376037530684613857cf86",
+    "entity_picture": "/api/camera_proxy/camera.buienradar?token=1b24ae1fc074a26b3de29e447db9fb0bf44c67eb03376037530684613857cf86",
+    "friendly_name": "Buienradar",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "camera.camera_hd_stream",
+    "Friendly Name": "Camera HD Stream",
+    "idle\taccess_token": "44a40288cfa01a02b9fd4ab9b49a3777e5af8ca815a523905fad89a73edd8304",
+    "model_name": "C200",
+    "brand": "TP-Link",
+    "motion_detection": "on",
+    "device_type": "SMART.IPCAMERA",
+    "device_info": "C200 3.0 IPC",
+    "features": "3",
+    "barcode": "",
+    "device_model": "C200",
+    "sw_version": "1.4.2 Build 250313 Rel.40499n",
+    "device_name": "C200 3.0",
+    "hw_version": "3.0",
+    "device_alias": "Camera",
+    "mobile_access": "0",
+    "mac": "AC-15-A2-42-38-87",
+    "dev_id": "802139105F1BDA1EB5945876EAE571B620854209",
+    "hw_id": "A66C7B9DA2F10B7E7CF20AF04814C2D4",
+    "oem_id": "5CFA4B8CF3F7D826581082F1C0CFAAE6",
+    "hw_desc": "00000000000000000000000000000000",
+    "manufacturer_name": "TP-LINK",
+    "region": "EU",
+    "ffs": "false",
+    "is_cal": "true",
+    "avatar": "camera c200",
+    "has_set_location_info": "0",
+    "longitude": "0",
+    "latitude": "0",
+    "user": "admin",
+    "presets": "",
+    "'1'": "Kaas",
+    "'2'": "Kijkhoek 2",
+    "'3'": "Kijkhoek 3",
+    "record_plan": "",
+    "sunday": "'[\"0000-0000:0\"]'",
+    "monday": "'[\"0000-0000:0\"]'",
+    "tuesday": "'[\"0000-0000:0\"]'",
+    "wednesday": "'[\"0000-0000:0\"]'",
+    "thursday": "'[\"0000-0000:0\"]'",
+    "friday": "'[\"0000-0000:0\"]'",
+    "saturday": "'[\"0000-0000:0\"]'",
+    "entity_picture": "/api/camera_proxy/camera.camera_hd_stream?token=44a40288cfa01a02b9fd4ab9b49a3777e5af8ca815a523905fad89a73edd8304",
+    "icon": "mdi:cctv",
+    "friendly_name": "Camera HD Stream",
+    "supported_features": "3"
+  },
+  {
+    "Entity ID": "conversation.google_generative_ai",
+    "Friendly Name": "Google Generative AI",
+    "2025-06-17T07": "58:32.410351+00:00\tfriendly_name: Google Generative AI",
+    "supported_features": "1"
+  },
+  {
+    "Entity ID": "conversation.home_assistant",
+    "Friendly Name": "Home Assistant",
+    "2025-06-17T07": "58:50.296512+00:00\tfriendly_name: Home Assistant",
+    "supported_features": "1"
+  },
+  {
+    "Entity ID": "device_tracker.android_tv_app",
+    "Friendly Name": "Android TV app",
+    "unknown\tsource_type": "gps",
+    "friendly_name": "Android TV app"
+  },
+  {
+    "Entity ID": "device_tracker.care_243b",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "device_tracker.care_7cec",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "device_tracker.care_bed0",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "device_tracker.care_c890",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "device_tracker.care_cef3",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "device_tracker.care_d5c2",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "device_tracker.care_d775",
+    "Friendly Name": "CARe D775",
+    "not_home\tsource_type": "bluetooth_le",
+    "uuid": "8063ae90-d8b7-11e6-9598-0800200c9a66",
+    "major": "55157",
+    "minor": "22848",
+    "source": "A4:E8:8D:08:44:D9",
+    "friendly_name": "CARe D775"
+  },
+  {
+    "Entity ID": "device_tracker.clio_locatie",
+    "Friendly Name": "Clio Locatie",
+    "home\tsource_type": "gps",
+    "latitude": "53.14669975",
+    "longitude": "7.03507528",
+    "gps_accuracy": "0",
+    "friendly_name": "Clio Locatie"
+  },
+  {
+    "Entity ID": "device_tracker.galaxy_watch6",
+    "Friendly Name": "Galaxy Watch6 (HZQV)",
+    "unknown\tsource_type": "gps",
+    "friendly_name": "Galaxy Watch6 (HZQV)"
+  },
+  {
+    "Entity ID": "device_tracker.s22ultra_mama",
+    "Friendly Name": "S22Ultra Mama",
+    "home\tsource_type": "gps",
+    "latitude": "53.1466298",
+    "longitude": "7.0353199",
+    "gps_accuracy": "156",
+    "altitude": "43",
+    "course": "0",
+    "speed": "0",
+    "vertical_accuracy": "73",
+    "friendly_name": "S22Ultra Mama"
+  },
+  {
+    "Entity ID": "device_tracker.s22ultra_papa",
+    "Friendly Name": "S22Ultra papa",
+    "unknown\tsource_type": "gps",
+    "friendly_name": "S22Ultra papa"
+  },
+  {
+    "Entity ID": "device_tracker.s25_ultra",
+    "Friendly Name": "S25Ultra",
+    "home\tsource_type": "gps",
+    "latitude": "53.1468317",
+    "longitude": "7.0354301",
+    "gps_accuracy": "3",
+    "altitude": "42",
+    "course": "91",
+    "speed": "7",
+    "vertical_accuracy": "13",
+    "friendly_name": "S25Ultra"
+  },
+  {
+    "Entity ID": "device_tracker.samsung_a12",
+    "Friendly Name": "Samsung A12",
+    "home\tsource_type": "gps",
+    "latitude": "53.1466077",
+    "longitude": "7.0350541",
+    "gps_accuracy": "100",
+    "altitude": "44",
+    "course": "0",
+    "speed": "0",
+    "vertical_accuracy": "100",
+    "friendly_name": "Samsung A12"
+  },
+  {
+    "Entity ID": "device_tracker.tab_s9fe_marco",
+    "Friendly Name": "Tab s9FE Marco",
+    "home\tsource_type": "gps",
+    "latitude": "53.1466155",
+    "longitude": "7.0350938",
+    "gps_accuracy": "100",
+    "altitude": "44",
+    "course": "0",
+    "speed": "0",
+    "vertical_accuracy": "100",
+    "friendly_name": "Tab s9FE Marco"
+  },
+  {
+    "Entity ID": "event.backup_automatic_backup",
+    "Friendly Name": "Backup Automatic backup",
+    "2025-07-07T04": "24:40.569+00:00\tevent_types: completed, failed, in_progress",
+    "event_type": "completed",
+    "backup_stage": "null",
+    "failed_reason": "null",
+    "friendly_name": "Backup Automatic backup"
+  },
+  {
+    "Entity ID": "fan.0x90395efffe479903",
+    "Friendly Name": "Ikea_Luchtreiniger",
+    "on\tpreset_modes": "auto",
+    "percentage": "22",
+    "percentage_step": "11.11111111111111",
+    "preset_mode": "null",
+    "friendly_name": "Ikea_Luchtreiniger",
+    "supported_features": "57"
+  },
+  {
+    "Entity ID": "input_boolean.star_wars_achtergrond",
+    "Friendly Name": "Star Wars Achtergrond",
+    "on\teditable": "true",
+    "friendly_name": "Star Wars Achtergrond"
+  },
+  {
+    "Entity ID": "input_boolean.starkvind_auto_mode",
+    "Friendly Name": "Starkvind Auto Mode",
+    "on\teditable": "false",
+    "friendly_name": "Starkvind Auto Mode"
+  },
+  {
+    "Entity ID": "input_boolean.waste_moved",
+    "Friendly Name": "Waste has been moved",
+    "off\teditable": "false",
+    "icon": "mdi:delete-empty",
+    "friendly_name": "Waste has been moved"
+  },
+  {
+    "Entity ID": "input_boolean.waste_reminder",
+    "Friendly Name": "Waste reminder enabled",
+    "on\teditable": "false",
+    "friendly_name": "Waste reminder enabled"
+  },
+  {
+    "Entity ID": "input_button.fun",
+    "Friendly Name": "FUN",
+    "2025-06-06T17": "56:02.350770+00:00\teditable: true",
+    "icon": "mdi:gauge-full",
+    "friendly_name": "FUN"
+  },
+  {
+    "Entity ID": "input_button.kantoor_aan_uit",
+    "Friendly Name": "Kantoor Aan/Uit",
+    "2025-06-09T16": "37:08.400844+00:00\teditable: true",
+    "icon": "mdi:power",
+    "friendly_name": "Kantoor Aan/Uit"
+  },
+  {
+    "Entity ID": "input_number.ip_video_folder_size_scripted",
+    "Friendly Name": "IP Video Folder Size (Scripted)",
+    "9216.0\tinitial": "null",
+    "editable": "true",
+    "min": "0",
+    "max": "100000",
+    "step": "0.01",
+    "mode": "box",
+    "unit_of_measurement": "MB",
+    "icon": "mdi:folder-multiple-image",
+    "friendly_name": "IP Video Folder Size (Scripted)"
+  },
+  {
+    "Entity ID": "input_number.rgb_blue",
+    "Friendly Name": "Blauw",
+    "unavailable\trestored": "true",
+    "friendly_name": "Blauw",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "input_number.rgb_green",
+    "Friendly Name": "Groen",
+    "unavailable\trestored": "true",
+    "friendly_name": "Groen",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "input_number.rgb_hue",
+    "Friendly Name": "RGB Kleur",
+    "unavailable\trestored": "true",
+    "friendly_name": "RGB Kleur",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "input_number.rgb_red",
+    "Friendly Name": "Rood",
+    "unavailable\trestored": "true",
+    "friendly_name": "Rood",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "input_select.video",
+    "Friendly Name": "Video",
+    "Video\toptions": "Video",
+    "editable": "true",
+    "friendly_name": "Video"
+  },
+  {
+    "Entity ID": "light.camera_floodlight_timed",
+    "Friendly Name": "Camera Floodlight (Timed)",
+    "off\tsupported_color_modes": "onoff",
+    "color_mode": "null",
+    "icon": "mdi:light-flood-down",
+    "friendly_name": "Camera Floodlight (Timed)",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.hdmi_sync_box",
+    "Friendly Name": "HDMI sync box",
+    "off\tsupported_color_modes": "hs",
+    "color_mode": "null",
+    "brightness": "null",
+    "hs_color": "null",
+    "rgb_color": "null",
+    "xy_color": "null",
+    "friendly_name": "HDMI sync box",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.hue_play_gradient_lightstrip_1_2",
+    "Friendly Name": "Hue play gradient lightstrip 1",
+    "on\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6535",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "effect_list": "off, candle, fire, prism, sparkle, opal, glisten, underwater, cosmos, sunbeam, enchant, sunrise, sunset",
+    "supported_color_modes": "color_temp, xy",
+    "effect": "off",
+    "color_mode": "xy",
+    "brightness": "255",
+    "color_temp_kelvin": "null",
+    "color_temp": "null",
+    "hs_color": "267.294, 100",
+    "rgb_color": "116, 0, 255",
+    "xy_color": "0.2, 0.069",
+    "mode": "normal",
+    "dynamics": "none",
+    "friendly_name": "Hue play gradient lightstrip 1",
+    "supported_features": "44"
+  },
+  {
+    "Entity ID": "light.ikea_lamp_bureau",
+    "Friendly Name": "IKEA lamp bureau",
+    "on\tmin_color_temp_kelvin": "2202",
+    "max_color_temp_kelvin": "4000",
+    "min_mireds": "250",
+    "max_mireds": "454",
+    "effect_list": "blink, breathe, okay, channel_change, finish_effect, stop_effect, colorloop, stop_colorloop",
+    "supported_color_modes": "color_temp, xy",
+    "effect": "null",
+    "color_mode": "xy",
+    "brightness": "255",
+    "color_temp_kelvin": "null",
+    "color_temp": "null",
+    "hs_color": "184, 100",
+    "rgb_color": "0, 238, 255",
+    "xy_color": "0.15, 0.317",
+    "friendly_name": "IKEA lamp bureau",
+    "supported_features": "44"
+  },
+  {
+    "Entity ID": "light.kantoor",
+    "Friendly Name": "Kantoor",
+    "on\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6535",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "supported_color_modes": "color_temp, xy",
+    "color_mode": "xy",
+    "brightness": "255",
+    "color_temp_kelvin": "null",
+    "color_temp": "null",
+    "hs_color": "267.294, 100",
+    "rgb_color": "116, 0, 255",
+    "xy_color": "0.2, 0.069",
+    "is_hue_group": "true",
+    "hue_scenes": "Kleuren van de natuur, Peinzend, Rusten, Blossom, Natuurlijk licht 2, Natuurlijk licht, Amberbloesem, Concentreren, Energie, Dromerige schemering, Nachtlampje, Sexy, Lezen, Gipskruid, Ontspannen, Star Wars, 's Nachts",
+    "hue_type": "room",
+    "lights": "Hue play gradient lightstrip 1",
+    "entity_id": "light.hue_play_gradient_lightstrip_1_2",
+    "dynamics": "false",
+    "icon": "mdi:lightbulb-group",
+    "friendly_name": "Kantoor",
+    "supported_features": "40"
+  },
+  {
+    "Entity ID": "light.lamp_bureau",
+    "Friendly Name": "Lamp Bureau",
+    "on\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6500",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "supported_color_modes": "color_temp",
+    "color_mode": "color_temp",
+    "brightness": "255",
+    "color_temp_kelvin": "5490",
+    "color_temp": "182",
+    "hs_color": "27.901, 12.966",
+    "rgb_color": "255, 237, 222",
+    "xy_color": "0.354, 0.343",
+    "friendly_name": "Lamp Bureau",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.lamp_op_poten",
+    "Friendly Name": "Lamp Op Poten",
+    "off\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6500",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "supported_color_modes": "color_temp",
+    "color_mode": "null",
+    "brightness": "null",
+    "color_temp_kelvin": "null",
+    "color_temp": "null",
+    "hs_color": "null",
+    "rgb_color": "null",
+    "xy_color": "null",
+    "friendly_name": "Lamp Op Poten",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.lampen",
+    "Friendly Name": "Lampen",
+    "on\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6500",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "effect_list": "blink, breathe, channel_change, colorloop, finish_effect, okay, stop_colorloop, stop_effect",
+    "supported_color_modes": "color_temp, hs, xy",
+    "effect": "null",
+    "color_mode": "color_temp",
+    "brightness": "255",
+    "color_temp_kelvin": "5490",
+    "color_temp": "182",
+    "hs_color": "27.901, 12.966",
+    "rgb_color": "255, 237, 222",
+    "xy_color": "0.354, 0.343",
+    "entity_id": "light.hdmi_sync_box, light.lamp_bureau, light.ikea_lamp_bureau, light.lamp_op_poten, light.ledstrip_kantoor, light.stopcontact_kamerlamp_keuken_stopcontact_1",
+    "icon": "mdi:lightbulb-group",
+    "friendly_name": "Lampen",
+    "supported_features": "44"
+  },
+  {
+    "Entity ID": "light.ledstrip_kantoor",
+    "Friendly Name": "ledstrip kantoor",
+    "on\tsupported_color_modes": "hs",
+    "color_mode": "hs",
+    "brightness": "255",
+    "hs_color": "165, 100",
+    "rgb_color": "0, 255, 191",
+    "xy_color": "0.157, 0.457",
+    "friendly_name": "ledstrip kantoor",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.st64_gold",
+    "Friendly Name": "ST64 Gold",
+    "off\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6500",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "supported_color_modes": "color_temp",
+    "color_mode": "null",
+    "brightness": "null",
+    "color_temp_kelvin": "null",
+    "color_temp": "null",
+    "hs_color": "null",
+    "rgb_color": "null",
+    "xy_color": "null",
+    "friendly_name": "ST64 Gold",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.st64_gold_2",
+    "Friendly Name": "ST64 Gold 2",
+    "off\tmin_color_temp_kelvin": "2000",
+    "max_color_temp_kelvin": "6500",
+    "min_mireds": "153",
+    "max_mireds": "500",
+    "supported_color_modes": "color_temp",
+    "color_mode": "null",
+    "brightness": "null",
+    "color_temp_kelvin": "null",
+    "color_temp": "null",
+    "hs_color": "null",
+    "rgb_color": "null",
+    "xy_color": "null",
+    "friendly_name": "ST64 Gold 2",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "light.stopcontact_kamerlamp_keuken_stopcontact_1",
+    "Friendly Name": "Lamp keuken Stopcontact 1",
+    "off\tsupported_color_modes": "onoff",
+    "color_mode": "null",
+    "friendly_name": "Lamp keuken Stopcontact 1",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "media_player.android_tv",
+    "Friendly Name": "Android TV",
+    "off\tfriendly_name": "Android TV",
+    "supported_features": "152461"
+  },
+  {
+    "Entity ID": "media_player.android_tv_2",
+    "Friendly Name": "Marco TV",
+    "off\tfriendly_name": "Marco TV",
+    "supported_features": "152461"
+  },
+  {
+    "Entity ID": "media_player.android_tv_4k",
+    "Friendly Name": "Android TV 4k",
+    "off\tassumed_state": "true",
+    "device_class": "tv",
+    "friendly_name": "Android TV 4k",
+    "supported_features": "153529"
+  },
+  {
+    "Entity ID": "media_player.chromecast_woonkamer",
+    "Friendly Name": "unavailable\trestored: true",
+    "supported_features": "131968"
+  },
+  {
+    "Entity ID": "media_player.marco",
+    "Friendly Name": "marco",
+    "on\tapp_id": "com.google.android.backdrop",
+    "app_name": "com.google.android.backdrop",
+    "assumed_state": "true",
+    "device_class": "tv",
+    "friendly_name": "marco",
+    "supported_features": "153529"
+  },
+  {
+    "Entity ID": "media_player.q_series_soundbar",
+    "Friendly Name": "Q-Series Soundbar",
+    "off\tdevice_class": "speaker",
+    "friendly_name": "Q-Series Soundbar",
+    "supported_features": "152461"
+  },
+  {
+    "Entity ID": "media_player.spotify_marcovdvlag",
+    "Friendly Name": "Spotify MarcovdVlag Tablet Dashboard",
+    "idle\tsource_list": "W11MARCO, Android TV, Android TV, Q-Series Soundbar",
+    "friendly_name": "Spotify MarcovdVlag Tablet Dashboard",
+    "supported_features": "2048"
+  },
+  {
+    "Entity ID": "media_player.tv_tv_woonkamer",
+    "Friendly Name": "[TV] TV woonkamer",
+    "unavailable\tfriendly_name": "[TV] TV woonkamer",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "media_player.tv_woonkamer",
+    "Friendly Name": "TV woonkamer",
+    "off\tsource_list": "TV, HDMI",
+    "device_class": "tv",
+    "friendly_name": "TV woonkamer",
+    "supported_features": "24509"
+  },
+  {
+    "Entity ID": "media_player.woonruimte",
+    "Friendly Name": "WoonRuimte",
+    "off\tdevice_class": "speaker",
+    "friendly_name": "WoonRuimte",
+    "supported_features": "152461"
+  },
+  {
+    "Entity ID": "number.camera_microphone_volume",
+    "Friendly Name": "Camera Microphone - Volume",
+    "56\tmin": "0",
+    "max": "100",
+    "step": "1",
+    "mode": "auto",
+    "icon": "mdi:microphone",
+    "friendly_name": "Camera Microphone - Volume"
+  },
+  {
+    "Entity ID": "number.camera_motion_detection_digital_sensitivity",
+    "Friendly Name": "Camera Motion Detection - Digital Sensitivity",
+    "100\tmin": "1",
+    "max": "100",
+    "step": "1",
+    "mode": "auto",
+    "icon": "mdi:motion-sensor",
+    "friendly_name": "Camera Motion Detection - Digital Sensitivity"
+  },
+  {
+    "Entity ID": "number.camera_movement_angle",
+    "Friendly Name": "Camera Movement Angle",
+    "5.0\tmin": "5",
+    "max": "120",
+    "step": "5",
+    "mode": "auto",
+    "icon": "mdi:map-marker-distance",
+    "friendly_name": "Camera Movement Angle"
+  },
+  {
+    "Entity ID": "number.camera_speaker_volume",
+    "Friendly Name": "Camera Speaker - Volume",
+    "100\tmin": "0",
+    "max": "100",
+    "step": "1",
+    "mode": "auto",
+    "icon": "mdi:speaker",
+    "friendly_name": "Camera Speaker - Volume"
+  },
+  {
+    "Entity ID": "number.camera_spotlight_intensity",
+    "Friendly Name": "Camera Spotlight Intensity",
+    "1\tmin": "1",
+    "max": "5",
+    "step": "1",
+    "mode": "auto",
+    "icon": "mdi:lightbulb-on-50",
+    "friendly_name": "Camera Spotlight Intensity"
+  },
+  {
+    "Entity ID": "person.blauwestad",
+    "Friendly Name": "Marco van der Vlag",
+    "home\teditable": "true",
+    "id": "blauwestad",
+    "device_trackers": "device_tracker.samsung_a12, device_tracker.galaxy_watch6, device_tracker.s25_ultra, device_tracker.clio_locatie, device_tracker.tab_s9fe_marco, device_tracker.android_tv_app",
+    "latitude": "53.14669975",
+    "longitude": "7.03507528",
+    "gps_accuracy": "0",
+    "source": "device_tracker.clio_locatie",
+    "user_id": "07b3a1f97e6748fab564972a7f2ae070",
+    "entity_picture": "/api/image/serve/5a1b6f03cc7c215ed8a6f3ed414786f3/512x512",
+    "friendly_name": "Marco van der Vlag"
+  },
+  {
+    "Entity ID": "person.mama",
+    "Friendly Name": "Trientje",
+    "home\teditable": "true",
+    "id": "mama",
+    "device_trackers": "device_tracker.s22ultra_mama",
+    "latitude": "53.1466298",
+    "longitude": "7.0353199",
+    "gps_accuracy": "156",
+    "source": "device_tracker.s22ultra_mama",
+    "user_id": "bd018ecf1df44a2798d353dadb4361ab",
+    "entity_picture": "/api/image/serve/5e849868bd9066dc7286b7b2759003de/512x512",
+    "friendly_name": "Trientje"
+  },
+  {
+    "Entity ID": "person.marco_van_der_vlag",
+    "Friendly Name": "Marco van der Vlag",
+    "unknown\teditable": "true",
+    "id": "marco_van_der_vlag",
+    "device_trackers": "",
+    "user_id": "823ace8939884256ac5aceed5c788595",
+    "entity_picture": "/api/image/serve/cb1f74243d2365b0d33ef224fa207477/512x512",
+    "friendly_name": "Marco van der Vlag"
+  },
+  {
+    "Entity ID": "person.mqtt_user",
+    "Friendly Name": "mqtt-user",
+    "unknown\teditable": "true",
+    "id": "mqtt_user",
+    "device_trackers": "",
+    "user_id": "c9713290c0f944e4800c00c73c0534c9",
+    "friendly_name": "mqtt-user"
+  },
+  {
+    "Entity ID": "person.papa",
+    "Friendly Name": "Herman",
+    "unknown\teditable": "true",
+    "id": "papa",
+    "device_trackers": "device_tracker.s22ultra_papa",
+    "user_id": "401b2e9a762b4ab8a668a88418aeb503",
+    "entity_picture": "/api/image/serve/23833e9a0d785f08a6415dc21fda4fea/512x512",
+    "friendly_name": "Herman"
+  },
+  {
+    "Entity ID": "remote.android_tv_4k",
+    "Friendly Name": "Android TV 4k",
+    "off\tactivity_list": "",
+    "current_activity": "com.tcuilauncher.tv.nl",
+    "friendly_name": "Android TV 4k",
+    "supported_features": "4"
+  },
+  {
+    "Entity ID": "remote.marco_remote",
+    "Friendly Name": "marco remote",
+    "on\tactivity_list": "",
+    "current_activity": "com.google.android.backdrop",
+    "friendly_name": "marco remote",
+    "supported_features": "4"
+  },
+  {
+    "Entity ID": "remote.tv_woonkamer",
+    "Friendly Name": "TV woonkamer",
+    "off\tfriendly_name": "TV woonkamer",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.google_speaker_30",
+    "Friendly Name": "Google speaker 30%",
+    "unavailable\trestored": "true",
+    "icon": "mdi:robot-vacuum",
+    "friendly_name": "Google speaker 30%",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.google_speaker_50",
+    "Friendly Name": "Google speaker 50%",
+    "unavailable\trestored": "true",
+    "icon": "mdi:robot-vacuum",
+    "friendly_name": "Google speaker 50%",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.kantoor",
+    "Friendly Name": "Kantoor",
+    "unavailable\trestored": "true",
+    "icon": "mdi:chair-rolling",
+    "friendly_name": "Kantoor",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.kantoor_amberbloesem",
+    "Friendly Name": "Kantoor Amberbloesem",
+    "2025-06-12T10": "17:51.716437+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Amberbloesem",
+    "speed": "0.6031746031746031",
+    "brightness": "204",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor Amberbloesem"
+  },
+  {
+    "Entity ID": "scene.kantoor_blossom",
+    "Friendly Name": "Kantoor Blossom",
+    "2025-06-12T19": "05:51.622726+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Blossom",
+    "speed": "0.626984126984127",
+    "brightness": "204",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor Blossom"
+  },
+  {
+    "Entity ID": "scene.kantoor_concentreren",
+    "Friendly Name": "Kantoor Concentreren",
+    "2025-06-12T10": "17:51.722155+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Concentreren",
+    "speed": "0.603",
+    "brightness": "255",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Concentreren"
+  },
+  {
+    "Entity ID": "scene.kantoor_dromerige_schemering",
+    "Friendly Name": "Kantoor Dromerige schemering",
+    "2025-06-12T19": "05:54.885227+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Dromerige schemering",
+    "speed": "0.6031746031746031",
+    "brightness": "128",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor Dromerige schemering"
+  },
+  {
+    "Entity ID": "scene.kantoor_energie",
+    "Friendly Name": "Kantoor Energie",
+    "2025-06-12T19": "05:38.137416+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Energie",
+    "speed": "0.603",
+    "brightness": "255",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Energie"
+  },
+  {
+    "Entity ID": "scene.kantoor_gipskruid",
+    "Friendly Name": "Kantoor Gipskruid",
+    "2025-06-12T10": "17:51.721644+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Gipskruid",
+    "speed": "0.7301587301587301",
+    "brightness": "255",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor Gipskruid"
+  },
+  {
+    "Entity ID": "scene.kantoor_kleuren_van_de_natuur",
+    "Friendly Name": "Kantoor Kleuren van de natuur",
+    "2025-06-12T17": "09:01.092957+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Kleuren van de natuur",
+    "is_active": "false",
+    "friendly_name": "Kantoor Kleuren van de natuur"
+  },
+  {
+    "Entity ID": "scene.kantoor_lezen",
+    "Friendly Name": "Kantoor Lezen",
+    "2025-06-12T19": "10:01.420886+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Lezen",
+    "speed": "0.603",
+    "brightness": "255",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Lezen"
+  },
+  {
+    "Entity ID": "scene.kantoor_nachtlampje",
+    "Friendly Name": "Kantoor Nachtlampje",
+    "2025-06-12T10": "17:51.720376+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Nachtlampje",
+    "speed": "0.603",
+    "brightness": "26",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Nachtlampje"
+  },
+  {
+    "Entity ID": "scene.kantoor_natuurlijk_licht",
+    "Friendly Name": "Kantoor Natuurlijk licht",
+    "2025-06-13T11": "44:29.608339+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Natuurlijk licht",
+    "is_active": "false",
+    "friendly_name": "Kantoor Natuurlijk licht"
+  },
+  {
+    "Entity ID": "scene.kantoor_natuurlijk_licht_2",
+    "Friendly Name": "Kantoor Natuurlijk licht 2",
+    "unknown\tgroup_name": "Kantoor",
+    "group_type": "room",
+    "name": "Natuurlijk licht 2",
+    "is_active": "false",
+    "friendly_name": "Kantoor Natuurlijk licht 2"
+  },
+  {
+    "Entity ID": "scene.kantoor_ontspannen",
+    "Friendly Name": "Kantoor Ontspannen",
+    "2025-06-12T19": "06:09.886482+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Ontspannen",
+    "speed": "0.603",
+    "brightness": "143",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Ontspannen"
+  },
+  {
+    "Entity ID": "scene.kantoor_peinzend",
+    "Friendly Name": "Kantoor Peinzend",
+    "2025-06-12T19": "05:33.509912+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Peinzend",
+    "speed": "0.6031746031746031",
+    "brightness": "143",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor Peinzend"
+  },
+  {
+    "Entity ID": "scene.kantoor_rusten",
+    "Friendly Name": "Kantoor Rusten",
+    "2025-06-12T10": "17:51.719212+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Rusten",
+    "speed": "0.603",
+    "brightness": "89",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Rusten"
+  },
+  {
+    "Entity ID": "scene.kantoor_s_nachts",
+    "Friendly Name": "Kantoor 's Nachts",
+    "2025-06-12T17": "08:53.742834+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "'s Nachts",
+    "speed": "0.626984126984127",
+    "brightness": "26",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor 's Nachts"
+  },
+  {
+    "Entity ID": "scene.kantoor_sexy",
+    "Friendly Name": "Kantoor Sexy",
+    "2025-06-13T11": "44:23.643421+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Sexy",
+    "speed": "0.603",
+    "brightness": "255",
+    "is_dynamic": "true",
+    "friendly_name": "Kantoor Sexy"
+  },
+  {
+    "Entity ID": "scene.kantoor_star_wars",
+    "Friendly Name": "Kantoor Star Wars",
+    "2025-06-12T19": "05:45.022339+00:00\tgroup_name: Kantoor",
+    "group_type": "room",
+    "name": "Star Wars",
+    "speed": "0.6031746031746031",
+    "brightness": "255",
+    "is_dynamic": "false",
+    "friendly_name": "Kantoor Star Wars"
+  },
+  {
+    "Entity ID": "scene.nieuwe_scene",
+    "Friendly Name": "Nieuwe scène",
+    "unavailable\trestored": "true",
+    "friendly_name": "Nieuwe scène",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.starwars",
+    "Friendly Name": "StarWars ROOD",
+    "unavailable\trestored": "true",
+    "icon": "mdi:movie-star",
+    "friendly_name": "StarWars ROOD",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.starwars_2",
+    "Friendly Name": "Starwars",
+    "2025-06-06T19": "11:54.894858+00:00\tfriendly_name: Starwars"
+  },
+  {
+    "Entity ID": "scene.starwars_ledstrip",
+    "Friendly Name": "STARWARS LEDSTRIP",
+    "2025-06-12T19": "21:58.301988+00:00\tfriendly_name: STARWARS LEDSTRIP"
+  },
+  {
+    "Entity ID": "scene.sync_screen_off",
+    "Friendly Name": "sync screen off",
+    "2025-06-06T16": "03:26.432707+00:00\tfriendly_name: sync screen off"
+  },
+  {
+    "Entity ID": "scene.sync_screen_on",
+    "Friendly Name": "sync screen on",
+    "2025-06-09T12": "47:12.542464+00:00\tfriendly_name: sync screen on"
+  },
+  {
+    "Entity ID": "scene.test",
+    "Friendly Name": "test",
+    "unavailable\trestored": "true",
+    "friendly_name": "test",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "scene.tv_aan",
+    "Friendly Name": "tv aan",
+    "2025-06-15T13": "01:06.226653+00:00\tfriendly_name: tv aan"
+  },
+  {
+    "Entity ID": "script.action_lamp_ventilator_aan",
+    "Friendly Name": "Action lamp+ventilator aan",
+    "off\tlast_triggered": "2025-07-03T11:34:20.766951+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Action lamp+ventilator aan"
+  },
+  {
+    "Entity ID": "script.action_lamp_ventilator_uit",
+    "Friendly Name": "Action lamp+ventilator uit",
+    "off\tlast_triggered": "null",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Action lamp+ventilator uit"
+  },
+  {
+    "Entity ID": "script.adaptive_lighting",
+    "Friendly Name": "Adaptive Lighting",
+    "off\tlast_triggered": "2025-06-20T07:47:44.070098+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:lightbulb",
+    "friendly_name": "Adaptive Lighting"
+  },
+  {
+    "Entity ID": "script.adaptive_lighting_aan_2",
+    "Friendly Name": "Adaptive Lighting aan",
+    "off\tlast_triggered": "2025-07-04T09:57:14.802189+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:lightbulb",
+    "friendly_name": "Adaptive Lighting aan"
+  },
+  {
+    "Entity ID": "script.alle_lampen_uit",
+    "Friendly Name": "Alle lampen uit",
+    "off\tlast_triggered": "2025-07-06T15:26:11.999702+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:lightbulb-off-outline",
+    "friendly_name": "Alle lampen uit"
+  },
+  {
+    "Entity ID": "script.confirmable_notification",
+    "Friendly Name": "Confirmable Notification",
+    "off\tlast_triggered": "2025-06-12T22:04:34.641059+00:00",
+    "mode": "restart",
+    "current": "0",
+    "friendly_name": "Confirmable Notification"
+  },
+  {
+    "Entity ID": "script.kantoor_aan",
+    "Friendly Name": "Kantoor aan",
+    "off\tlast_triggered": "2025-07-06T15:44:07.593526+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Kantoor aan"
+  },
+  {
+    "Entity ID": "script.kantoor_aan_pc",
+    "Friendly Name": "kantoor aan + PC",
+    "off\tlast_triggered": "2025-07-07T07:20:49.511568+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "kantoor aan + PC"
+  },
+  {
+    "Entity ID": "script.kantoor_script",
+    "Friendly Name": "Kantoor uit",
+    "off\tlast_triggered": "2025-07-07T05:46:43.435196+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Kantoor uit"
+  },
+  {
+    "Entity ID": "script.lamp_aan_bed",
+    "Friendly Name": "Lamp aan bed",
+    "off\tlast_triggered": "2025-07-02T18:37:13.307999+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Lamp aan bed"
+  },
+  {
+    "Entity ID": "script.lamp_bed_uit",
+    "Friendly Name": "Lamp bed uit",
+    "off\tlast_triggered": "null",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Lamp bed uit"
+  },
+  {
+    "Entity ID": "script.new_script",
+    "Friendly Name": "New script",
+    "off\tlast_triggered": "2025-07-07T16:16:21.770510+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "New script"
+  },
+  {
+    "Entity ID": "script.nieuw_script",
+    "Friendly Name": "Nieuw script",
+    "off\tlast_triggered": "2025-05-14T19:44:15.801871+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Nieuw script"
+  },
+  {
+    "Entity ID": "script.nieuw_script_4",
+    "Friendly Name": "Kantoor uit + PC",
+    "off\tlast_triggered": "2025-07-06T19:57:01.896424+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Kantoor uit + PC"
+  },
+  {
+    "Entity ID": "script.play_chill_hits",
+    "Friendly Name": "Play Chill Hits",
+    "off\tlast_triggered": "2025-07-04T10:07:53.621180+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Play Chill Hits"
+  },
+  {
+    "Entity ID": "script.play_focus_flow",
+    "Friendly Name": "Play Focus Flow",
+    "off\tlast_triggered": "2025-07-04T13:09:12.769135+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Play Focus Flow"
+  },
+  {
+    "Entity ID": "script.play_indie_pop",
+    "Friendly Name": "Easy to select",
+    "off\tlast_triggered": "2025-07-04T12:45:52.023806+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Easy to select"
+  },
+  {
+    "Entity ID": "script.play_summer_vibes",
+    "Friendly Name": "Play Summer Vibes",
+    "off\tlast_triggered": "2025-07-06T17:23:41.764171+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Play Summer Vibes"
+  },
+  {
+    "Entity ID": "script.play_ultimate_chill",
+    "Friendly Name": "Play Ultimate Chill",
+    "off\tlast_triggered": "2025-07-04T20:24:27.974754+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Play Ultimate Chill"
+  },
+  {
+    "Entity ID": "script.spots_uit",
+    "Friendly Name": "Spots uit",
+    "off\tlast_triggered": "2025-07-03T11:34:31.378121+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Spots uit"
+  },
+  {
+    "Entity ID": "script.start_spotify_playlist",
+    "Friendly Name": "Start Spotify playlist",
+    "off\tlast_triggered": "2025-07-04T07:58:20.923331+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Start Spotify playlist"
+  },
+  {
+    "Entity ID": "script.starwars",
+    "Friendly Name": "Starwars",
+    "off\tlast_triggered": "2025-07-02T17:48:31.014437+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Starwars"
+  },
+  {
+    "Entity ID": "script.tv_aan",
+    "Friendly Name": "TV aan/uit",
+    "off\tlast_triggered": "2025-07-04T16:30:05.823508+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "TV aan/uit"
+  },
+  {
+    "Entity ID": "script.update_ip_video_folder_size_from_shell",
+    "Friendly Name": "Update IP Video Folder Size from Shell",
+    "off\tlast_triggered": "2025-07-07T16:30:00.368388+00:00",
+    "mode": "single",
+    "current": "0",
+    "friendly_name": "Update IP Video Folder Size from Shell"
+  },
+  {
+    "Entity ID": "script.verlaag_de_helderheid_van_lamp_bureau",
+    "Friendly Name": "Verlaag de helderheid van Lamp Bureau",
+    "off\tlast_triggered": "2025-05-22T16:17:31.556515+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:lightbulb",
+    "friendly_name": "Verlaag de helderheid van Lamp Bureau"
+  },
+  {
+    "Entity ID": "script.woonkamer_aan",
+    "Friendly Name": "Woonkamer aan",
+    "off\tlast_triggered": "2025-07-06T21:23:51.161680+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:lightbulb",
+    "friendly_name": "Woonkamer aan"
+  },
+  {
+    "Entity ID": "script.woonkamer_uit",
+    "Friendly Name": "Woonkamer uit",
+    "off\tlast_triggered": "2025-07-06T21:24:41.719017+00:00",
+    "mode": "single",
+    "current": "0",
+    "icon": "mdi:lightbulb",
+    "friendly_name": "Woonkamer uit"
+  },
+  {
+    "Entity ID": "select.camera_automatic_alarm",
+    "Friendly Name": "Camera Automatic Alarm",
+    "off\toptions": "both, light, sound, off",
+    "device_class": "alarm",
+    "icon": "mdi:alarm-light-outline",
+    "friendly_name": "Camera Automatic Alarm"
+  },
+  {
+    "Entity ID": "select.camera_baby_cry_detection",
+    "Friendly Name": "Camera Baby Cry Detection",
+    "off\toptions": "high, normal, low, off",
+    "device_class": "baby_cry_detection",
+    "icon": "mdi:emoticon-cry-outline",
+    "friendly_name": "Camera Baby Cry Detection"
+  },
+  {
+    "Entity ID": "select.camera_light_frequency",
+    "Friendly Name": "Camera Light Frequency",
+    "auto\toptions": "auto, 50, 60",
+    "icon": "mdi:sine-wave",
+    "friendly_name": "Camera Light Frequency"
+  },
+  {
+    "Entity ID": "select.camera_motion_detection",
+    "Friendly Name": "Camera Motion Detection",
+    "high\toptions": "high, normal, low, off",
+    "device_class": "motion_detection",
+    "icon": "mdi:motion-sensor",
+    "friendly_name": "Camera Motion Detection"
+  },
+  {
+    "Entity ID": "select.camera_move_to_preset",
+    "Friendly Name": "Camera Move to Preset",
+    "unknown\toptions": "Kaas, Kijkhoek 2, Kijkhoek 3",
+    "icon": "mdi:arrow-decision",
+    "friendly_name": "Camera Move to Preset"
+  },
+  {
+    "Entity ID": "select.camera_night_vision",
+    "Friendly Name": "Camera Night Vision",
+    "Infrared Mode\toptions": "Infrared Mode",
+    "device_class": "night_vision",
+    "icon": "mdi:theme-light-dark",
+    "friendly_name": "Camera Night Vision"
+  },
+  {
+    "Entity ID": "select.camera_night_vision_switching",
+    "Friendly Name": "Camera Night Vision Switching",
+    "off\toptions": "auto, on, off",
+    "device_class": "night_vision",
+    "icon": "mdi:theme-light-dark",
+    "friendly_name": "Camera Night Vision Switching"
+  },
+  {
+    "Entity ID": "select.camera_patrol_mode",
+    "Friendly Name": "Camera Patrol Mode",
+    "unknown\toptions": "Horizontal, Vertical, off",
+    "device_class": "patrol_mode",
+    "icon": "mdi:swap-horizontal",
+    "friendly_name": "Camera Patrol Mode"
+  },
+  {
+    "Entity ID": "select.camera_person_detection",
+    "Friendly Name": "Camera Person Detection",
+    "high\toptions": "high, normal, low, off",
+    "device_class": "person_detection",
+    "icon": "mdi:account-alert",
+    "friendly_name": "Camera Person Detection"
+  },
+  {
+    "Entity ID": "select.camera_siren_type",
+    "Friendly Name": "Camera Siren Type",
+    "Siren\toptions": "Siren, Tone",
+    "icon": "mdi:home-sound-in-outline",
+    "friendly_name": "Camera Siren Type"
+  },
+  {
+    "Entity ID": "select.camera_spotlight_on_off_for",
+    "Friendly Name": "Camera Spotlight on/off for",
+    "5 min\toptions": "5 min, 10 min, 15 min, 30 min",
+    "icon": "mdi:clock-outline",
+    "friendly_name": "Camera Spotlight on/off for"
+  },
+  {
+    "Entity ID": "select.camera_tamper_detection",
+    "Friendly Name": "Camera Tamper Detection",
+    "normal\toptions": "high, normal, low, off",
+    "device_class": "tamper_detection",
+    "icon": "mdi:camera-enhance",
+    "friendly_name": "Camera Tamper Detection"
+  },
+  {
+    "Entity ID": "select.camera_timezone",
+    "Friendly Name": "Camera Timezone",
+    "UTC+01": "00 (Europe/Amsterdam)\toptions: UTC+12:00 (Pacific/Wake), UTC-11:00 (Pacific/Midway), UTC-10:00 (Pacific/Honolulu), UTC-09:00 (America/Archorage), UTC-08:00 (America/Los_Angeles), UTC-07:00 (America/Chihuahua), UTC-07:00 (America/Denver), UTC-06:00 (America/Tegucigalpa), UTC-06:00 (America/Chicago), UTC-06:00 (America/Mexico_City), UTC-06:00 (Canada/Saskatchewan), UTC-05:00 (America/Bogota), UTC-05:00 (America/New_York), UTC-05:00 (America/Indiana/Indianapolis), UTC-04:00 (America/Caracas), UTC-04:00 (America/Asuncion), UTC-04:00 (America/Halifax), UTC-04:00 (America/Cuiaba), UTC-04:00 (America/La_Paz), UTC-04:00 (America/Santiago), UTC-03:30 (Canada/Newfoundland), UTC-03:00 (America/Sao_Paulo), UTC-03:00 (America/Buenos_Aires), UTC-03:00 (America/Cayenne), UTC-03:00 (America/Godthab), UTC-03:00 (America/Montevideo), UTC-02:00 (Atlantic/South_Georgia), UTC-01:00 (Atlantic Azores), UTC-01:00 (Atlantic/Cape_Verde), UTC-00:00 (Africa/Casablanca), UTC-00:00 (UTC), UTC-00:00 (Europe/London), UTC-00:00 (Atlantic/Reykjavik), UTC+01:00 (Europe/Amsterdam), UTC+01:00 (Europe/Belgrade), UTC+01:00 (Europe/Brussels), UTC+01:00 (Europe/Sarajevo), UTC+01:00 (Africa/Algiers), UTC+02:00 (Europe/Athens), UTC+02:00 (Asia/Beirut), UTC+02:00 (Africa/Cairo), UTC+02:00 (Asia/Damascus), UTC+02:00 (Africa/Harare), UTC+02:00 (Europe/Vilnius), UTC+02:00 (Asia/Jerusalem), UTC+02:00 (Asia/Amman), UTC+03:00 (Asia/Baghdad), UTC+03:00 (Europe/Minsk), UTC+03:00 (Asia/Kuwait), UTC+03:00 (Africa/Nairobi), UTC+03:00 (Asia/Istanbul), UTC+03:00 (Europe/Moscow), UTC+03:30 (Asia/Tehran), UTC+04:00 (Asia/Muscat), UTC+04:00 (Asia/Baku), UTC+04:00 (Asia/Tbilisi), UTC+04:00 (Asia/Yerevan), UTC+04:30 (Asia/Kabul), UTC+05:00 (Asia/Karachi), UTC+05:00 (Asia/Yekaterinburg), UTC+05:00 (Asia/Tashkent), UTC+05:30 (Asia/Kolkata), UTC+05:30 (Asia/Colombo), UTC+05:45 (Asia/Katmandu), UTC+06:00 (Asia/Dhaka), UTC+06:30 (Asia/Rangoon), UTC+07:00 (Asia/Bangkok), UTC+07:00 (Asia/Novosibirsk), UTC+07:00 (Asia/Krasnoyarsk), UTC+08:00 (Asia/Hong_Kong), UTC+08:00 (Asia/Kuala_Lumpur), UTC+08:00 (Australia/Perth), UTC+08:00 (Asia/Taipei), UTC+08:00 (Asia/Ulaanbaatar), UTC+08:00 (Asia/Irkutsk), UTC+09:00 (Asia/Tokyo), UTC+09:00 (Asia/Seoul), UTC+09:00 (Asia/Yakutsk), UTC+09:30 (Australia/Adelaide), UTC+09:30 (Australia/Darwin), UTC+10:00 (Australia/Brisbane), UTC+10:00 (Australia/Canberra), UTC+10:00 (Pacific/Guam), UTC+10:00 (Australia/Hobart), UTC+10:00 (Asia/Vladivostok), UTC+11:00 (Pacific/Noumea), UTC+11:00 (Asia/Magadan), UTC+12:00 (Pacific/Auckland), UTC+12:00 (Pacific/Fiji), UTC+12:00 (Asia/Kamchatka), UTC+13:00 (Pacific/Tongatapu)",
+    "icon": "mdi:map-clock",
+    "friendly_name": "Camera Timezone"
+  },
+  {
+    "Entity ID": "select.ikea_lamp_bureau_effect",
+    "Friendly Name": "IKEA lamp bureau Effect",
+    "unknown\toptions": "blink, breathe, okay, channel_change, finish_effect, stop_effect, colorloop, stop_colorloop",
+    "assumed_state": "true",
+    "icon": "mdi:palette",
+    "friendly_name": "IKEA lamp bureau Effect"
+  },
+  {
+    "Entity ID": "select.ikea_lamp_bureau_power_on_behavior",
+    "Friendly Name": "IKEA lamp bureau Power-on behavior",
+    "previous\toptions": "off, on, toggle, previous",
+    "icon": "mdi:power-settings",
+    "friendly_name": "IKEA lamp bureau Power-on behavior"
+  },
+  {
+    "Entity ID": "select.ikea_stopcontact_power_on_behavior",
+    "Friendly Name": "IKEA stopcontact Power-on behavior",
+    "previous\toptions": "off, on, toggle, previous",
+    "icon": "mdi:power-settings",
+    "friendly_name": "IKEA stopcontact Power-on behavior"
+  },
+  {
+    "Entity ID": "select.kerstboom_opstartgedrag",
+    "Friendly Name": "Koelkast Opstartgedrag",
+    "last\toptions": "power_off, power_on, last",
+    "friendly_name": "Koelkast Opstartgedrag"
+  },
+  {
+    "Entity ID": "select.stopcontact_kamerlamp_keuken_opstartgedrag",
+    "Friendly Name": "Lamp keuken Opstartgedrag",
+    "last\toptions": "power_off, power_on, last",
+    "friendly_name": "Lamp keuken Opstartgedrag"
+  },
+  {
+    "Entity ID": "select.zigbee2mqtt_bridge_log_level",
+    "Friendly Name": "Zigbee2MQTT Bridge Log level",
+    "info\toptions": "error, warning, info, debug",
+    "friendly_name": "Zigbee2MQTT Bridge Log level"
+  },
+  {
+    "Entity ID": "sensor.0x90395efffe479903_air_quality",
+    "Friendly Name": "Ikea_Luchtreiniger Air quality",
+    "excellent\tfriendly_name": "Ikea_Luchtreiniger Air quality"
+  },
+  {
+    "Entity ID": "sensor.0x90395efffe479903_device_age",
+    "Friendly Name": "Ikea_Luchtreiniger Device age",
+    "2825\tunit_of_measurement": "minutes",
+    "friendly_name": "Ikea_Luchtreiniger Device age"
+  },
+  {
+    "Entity ID": "sensor.0x90395efffe479903_fan_speed",
+    "Friendly Name": "Ikea_Luchtreiniger Fan speed",
+    "2\tfriendly_name": "Ikea_Luchtreiniger Fan speed"
+  },
+  {
+    "Entity ID": "sensor.0x90395efffe479903_filter_age",
+    "Friendly Name": "Ikea_Luchtreiniger Filter age",
+    "2845\tunit_of_measurement": "minutes",
+    "friendly_name": "Ikea_Luchtreiniger Filter age"
+  },
+  {
+    "Entity ID": "sensor.0x90395efffe479903_pm25",
+    "Friendly Name": "Ikea_Luchtreiniger PM2.5",
+    "7\tstate_class": "measurement",
+    "unit_of_measurement": "µg/m³",
+    "device_class": "pm25",
+    "friendly_name": "Ikea_Luchtreiniger PM2.5"
+  },
+  {
+    "Entity ID": "sensor.aantal_lampen_aan_kantoor",
+    "Friendly Name": "Aantal lampen aan kantoor",
+    "4\tunit_of_measurement": "lampen",
+    "friendly_name": "Aantal lampen aan kantoor"
+  },
+  {
+    "Entity ID": "sensor.aantal_lampen_aan_woonkamer",
+    "Friendly Name": "Aantal lampen aan woonkamer",
+    "0\tunit_of_measurement": "lampen",
+    "friendly_name": "Aantal lampen aan woonkamer"
+  },
+  {
+    "Entity ID": "sensor.ad5m_bed",
+    "Friendly Name": "AD5M Bed",
+    "65.0\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "unit_of_measurement": "ºC",
+    "icon": "mdi:thermometer",
+    "friendly_name": "AD5M Bed"
+  },
+  {
+    "Entity ID": "sensor.ad5m_bed_desired",
+    "Friendly Name": "AD5M Bed desired",
+    "65.0\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "unit_of_measurement": "ºC",
+    "icon": "mdi:thermometer",
+    "friendly_name": "AD5M Bed desired"
+  },
+  {
+    "Entity ID": "sensor.ad5m_current_file",
+    "Friendly Name": "AD5M Current file",
+    "STARKVIND Leg.gx\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "icon": "mdi:file-arrow-up-down",
+    "friendly_name": "AD5M Current file"
+  },
+  {
+    "Entity ID": "sensor.ad5m_layer",
+    "Friendly Name": "AD5M Layer",
+    "100/100\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "icon": "mdi:layers",
+    "friendly_name": "AD5M Layer"
+  },
+  {
+    "Entity ID": "sensor.ad5m_layer_progress",
+    "Friendly Name": "ad5m_layer_progress",
+    "100.0\tunit_of_measurement": "%",
+    "friendly_name": "ad5m_layer_progress"
+  },
+  {
+    "Entity ID": "sensor.ad5m_machine_status",
+    "Friendly Name": "AD5M Machine status",
+    "BUILDING_FROM_SD\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "icon": "mdi:state-machine",
+    "friendly_name": "AD5M Machine status"
+  },
+  {
+    "Entity ID": "sensor.ad5m_move_mode",
+    "Friendly Name": "AD5M Move mode",
+    "MOVING\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "icon": "mdi:auto-mode",
+    "friendly_name": "AD5M Move mode"
+  },
+  {
+    "Entity ID": "sensor.ad5m_nozzle",
+    "Friendly Name": "AD5M Nozzle",
+    "225.1\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "unit_of_measurement": "ºC",
+    "icon": "mdi:thermometer",
+    "friendly_name": "AD5M Nozzle"
+  },
+  {
+    "Entity ID": "sensor.ad5m_nozzle_desired",
+    "Friendly Name": "AD5M Nozzle desired",
+    "225.0\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "unit_of_measurement": "ºC",
+    "icon": "mdi:thermometer",
+    "friendly_name": "AD5M Nozzle desired"
+  },
+  {
+    "Entity ID": "sensor.ad5m_progress",
+    "Friendly Name": "AD5M Progress",
+    "95\tonline": "true",
+    "progress": "95",
+    "layer": "100/100",
+    "printing": "true",
+    "nozzle_temperature": "225.1",
+    "desired_nozzle_temperature": "225",
+    "bed_temperature": "65",
+    "desired_bed_temperature": "65",
+    "machine_status": "BUILDING_FROM_SD",
+    "move_mode": "MOVING",
+    "current_file": "STARKVIND Leg.gx",
+    "unit_of_measurement": "%",
+    "icon": "mdi:percent-circle",
+    "friendly_name": "AD5M Progress"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_day_after_tomorrow",
+    "Friendly Name": "afvalwijzer day_after_tomorrow",
+    "geen\tlast_update": "2025-07-07T16:35:25.344020",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer day_after_tomorrow"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_dhm",
+    "Friendly Name": "afvalwijzer dhm",
+    "2025-07-16\tlast_update": "2025-07-07T16:35:25.345911",
+    "days_until_collection_date": "9",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer dhm"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_gft",
+    "Friendly Name": "GFT",
+    "2025-07-10\tlast_update": "2025-07-07T16:35:25.282952",
+    "days_until_collection_date": "3",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:leaf-circle",
+    "friendly_name": "GFT"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_kca",
+    "Friendly Name": "afvalwijzer kca",
+    "2025-09-06\tlast_update": "2025-07-07T16:35:25.343708",
+    "days_until_collection_date": "61",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer kca"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_kerstbomen",
+    "Friendly Name": "afvalwijzer kerstbomen",
+    "geen\tlast_update": "2025-07-07T16:35:25.346284",
+    "days_until_collection_date": "null",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer kerstbomen"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_next_date",
+    "Friendly Name": "afvalwijzer next_date",
+    "2025-07-10\tlast_update": "2025-07-07T16:35:25.308113",
+    "days_until_collection_date": "3",
+    "device_class": "timestamp",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer next_date"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_next_in_days",
+    "Friendly Name": "afvalwijzer next_in_days",
+    "3\tlast_update": "2025-07-07T16:35:25.308602",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer next_in_days"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_next_type",
+    "Friendly Name": "afvalwijzer next_type",
+    "gft\tlast_update": "2025-07-07T16:35:25.344189",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer next_type"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_papier",
+    "Friendly Name": "Papier",
+    "2025-07-15\tlast_update": "2025-07-07T16:35:25.308762",
+    "days_until_collection_date": "8",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:recycle-variant",
+    "friendly_name": "Papier"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_pmd",
+    "Friendly Name": "PMD",
+    "2025-07-16\tlast_update": "2025-07-07T16:35:25.248573",
+    "days_until_collection_date": "9",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:recycle",
+    "friendly_name": "PMD"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_restafval",
+    "Friendly Name": "Restafval",
+    "2025-07-31\tlast_update": "2025-07-07T16:35:25.344502",
+    "days_until_collection_date": "24",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:delete-empty",
+    "friendly_name": "Restafval"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_takken",
+    "Friendly Name": "afvalwijzer takken",
+    "2025-12-01\tlast_update": "2025-07-07T16:35:25.344349",
+    "days_until_collection_date": "147",
+    "is_collection_date_today": "false",
+    "is_collection_date_tomorrow": "false",
+    "is_collection_date_day_after_tomorrow": "false",
+    "device_class": "timestamp",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer takken"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_today",
+    "Friendly Name": "afvalwijzer today",
+    "geen\tlast_update": "2025-07-07T16:35:25.346136",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer today"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_tomorrow",
+    "Friendly Name": "afvalwijzer tomorrow",
+    "geen\tlast_update": "2025-07-07T16:35:25.308387",
+    "icon": "mdi:recycle",
+    "friendly_name": "afvalwijzer tomorrow"
+  },
+  {
+    "Entity ID": "sensor.afvalwijzer_vandaag_of_morgen",
+    "Friendly Name": "Afvalwijzer Vandaag Of Morgen",
+    "unavailable\trestored": "true",
+    "icon": "mdi:trash-can",
+    "friendly_name": "Afvalwijzer Vandaag Of Morgen",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.appdaemon_geheugenpercentage",
+    "Friendly Name": "AppDaemon Geheugenpercentage",
+    "0.38\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "AppDaemon Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.backup_backup_manager_state",
+    "Friendly Name": "Backup Backup Manager state",
+    "idle\toptions": "idle, create_backup, blocked, receive_backup, restore_backup",
+    "device_class": "enum",
+    "friendly_name": "Backup Backup Manager state"
+  },
+  {
+    "Entity ID": "sensor.backup_last_attempted_automatic_backup",
+    "Friendly Name": "Backup Last attempted automatic backup",
+    "2025-07-07T03": "39:52+00:00\tdevice_class: timestamp",
+    "friendly_name": "Backup Last attempted automatic backup"
+  },
+  {
+    "Entity ID": "sensor.backup_last_successful_automatic_backup",
+    "Friendly Name": "Backup Last successful automatic backup",
+    "2025-07-07T04": "24:33+00:00\tdevice_class: timestamp",
+    "friendly_name": "Backup Last successful automatic backup"
+  },
+  {
+    "Entity ID": "sensor.backup_next_scheduled_automatic_backup",
+    "Friendly Name": "Backup Next scheduled automatic backup",
+    "2025-07-08T02": "54:43+00:00\tdevice_class: timestamp",
+    "friendly_name": "Backup Next scheduled automatic backup"
+  },
+  {
+    "Entity ID": "sensor.camera_recordings_synchronization",
+    "Friendly Name": "Camera Recordings Synchronization",
+    "Idle\tfriendly_name": "Camera Recordings Synchronization"
+  },
+  {
+    "Entity ID": "sensor.care_243b_geschatte_afstand",
+    "Friendly Name": "Geschatte afstand",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "distance",
+    "friendly_name": "Geschatte afstand",
+    "supported_features": "0",
+    "unit_of_measurement": "m"
+  },
+  {
+    "Entity ID": "sensor.care_7cec_geschatte_afstand",
+    "Friendly Name": "Geschatte afstand",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "distance",
+    "friendly_name": "Geschatte afstand",
+    "supported_features": "0",
+    "unit_of_measurement": "m"
+  },
+  {
+    "Entity ID": "sensor.care_7cec_leverancier",
+    "Friendly Name": "Leverancier",
+    "unavailable\trestored": "true",
+    "friendly_name": "Leverancier",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.care_7cec_stroom",
+    "Friendly Name": "Stroom",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "signal_strength",
+    "friendly_name": "Stroom",
+    "supported_features": "0",
+    "unit_of_measurement": "dBm"
+  },
+  {
+    "Entity ID": "sensor.care_bed0_geschatte_afstand",
+    "Friendly Name": "Geschatte afstand",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "distance",
+    "friendly_name": "Geschatte afstand",
+    "supported_features": "0",
+    "unit_of_measurement": "m"
+  },
+  {
+    "Entity ID": "sensor.care_c890_geschatte_afstand",
+    "Friendly Name": "Geschatte afstand",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "distance",
+    "friendly_name": "Geschatte afstand",
+    "supported_features": "0",
+    "unit_of_measurement": "m"
+  },
+  {
+    "Entity ID": "sensor.care_cef3_geschatte_afstand",
+    "Friendly Name": "Geschatte afstand",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "distance",
+    "friendly_name": "Geschatte afstand",
+    "supported_features": "0",
+    "unit_of_measurement": "m"
+  },
+  {
+    "Entity ID": "sensor.care_cef3_leverancier",
+    "Friendly Name": "Leverancier",
+    "unavailable\trestored": "true",
+    "friendly_name": "Leverancier",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.care_cef3_signaalsterkte",
+    "Friendly Name": "Signaalsterkte",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "signal_strength",
+    "friendly_name": "Signaalsterkte",
+    "supported_features": "0",
+    "unit_of_measurement": "dBm"
+  },
+  {
+    "Entity ID": "sensor.care_cef3_stroom",
+    "Friendly Name": "Stroom",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "signal_strength",
+    "friendly_name": "Stroom",
+    "supported_features": "0",
+    "unit_of_measurement": "dBm"
+  },
+  {
+    "Entity ID": "sensor.care_d5c2_geschatte_afstand",
+    "Friendly Name": "Geschatte afstand",
+    "unavailable\trestored": "true",
+    "state_class": "measurement",
+    "device_class": "distance",
+    "friendly_name": "Geschatte afstand",
+    "supported_features": "0",
+    "unit_of_measurement": "m"
+  },
+  {
+    "Entity ID": "sensor.care_d775_geschatte_afstand",
+    "Friendly Name": "CARe D775 Geschatte afstand",
+    "unavailable\tstate_class": "measurement",
+    "unit_of_measurement": "m",
+    "device_class": "distance",
+    "friendly_name": "CARe D775 Geschatte afstand"
+  },
+  {
+    "Entity ID": "sensor.clio_fuel_autonomy",
+    "Friendly Name": "Clio Fuel autonomy",
+    "495\tstate_class": "measurement",
+    "unit_of_measurement": "km",
+    "device_class": "distance",
+    "friendly_name": "Clio Fuel autonomy"
+  },
+  {
+    "Entity ID": "sensor.clio_fuel_quantity",
+    "Friendly Name": "Clio Fuel quantity",
+    "30\tstate_class": "total",
+    "unit_of_measurement": "L",
+    "device_class": "volume",
+    "friendly_name": "Clio Fuel quantity"
+  },
+  {
+    "Entity ID": "sensor.clio_kilometerstand",
+    "Friendly Name": "Clio Kilometerstand",
+    "75317\tstate_class": "total_increasing",
+    "unit_of_measurement": "km",
+    "device_class": "distance",
+    "friendly_name": "Clio Kilometerstand"
+  },
+  {
+    "Entity ID": "sensor.dagen_tot_gft",
+    "Friendly Name": "Dagen tot GFT",
+    "unknown\tunit_of_measurement": "dagen",
+    "friendly_name": "Dagen tot GFT"
+  },
+  {
+    "Entity ID": "sensor.dagen_tot_papier",
+    "Friendly Name": "Dagen tot Papier",
+    "unknown\tunit_of_measurement": "dagen",
+    "friendly_name": "Dagen tot Papier"
+  },
+  {
+    "Entity ID": "sensor.dagen_tot_pmd",
+    "Friendly Name": "Dagen tot PMD",
+    "unknown\tunit_of_measurement": "dagen",
+    "friendly_name": "Dagen tot PMD"
+  },
+  {
+    "Entity ID": "sensor.dagen_tot_restafval",
+    "Friendly Name": "Dagen tot Restafval",
+    "unknown\tunit_of_measurement": "dagen",
+    "friendly_name": "Dagen tot Restafval"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_aantal_items_voor_poorttoewijzing_ipv4",
+    "Friendly Name": "EX5601-T1 Aantal items voor poorttoewijzing (IPv4)",
+    "0\tfriendly_name": "EX5601-T1 Aantal items voor poorttoewijzing (IPv4)"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_data_ontvangen",
+    "Friendly Name": "EX5601-T1 Data ontvangen",
+    "829111976\tstate_class": "total_increasing",
+    "unit_of_measurement": "B",
+    "device_class": "data_size",
+    "friendly_name": "EX5601-T1 Data ontvangen"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_data_verzonden",
+    "Friendly Name": "EX5601-T1 Data verzonden",
+    "3427617211\tstate_class": "total_increasing",
+    "unit_of_measurement": "B",
+    "device_class": "data_size",
+    "friendly_name": "EX5601-T1 Data verzonden"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_downloadsnelheid",
+    "Friendly Name": "EX5601-T1 Downloadsnelheid",
+    "28.7921439051377\tstate_class": "measurement",
+    "unit_of_measurement": "KiB/s",
+    "device_class": "data_rate",
+    "friendly_name": "EX5601-T1 Downloadsnelheid"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_extern_ip",
+    "Friendly Name": "EX5601-T1 Extern IP",
+    "5.132.45.191\tfriendly_name": "EX5601-T1 Extern IP"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_pakket_downloadsnelheid",
+    "Friendly Name": "EX5601-T1 Pakket downloadsnelheid",
+    "27.9668456544789\tstate_class": "measurement",
+    "unit_of_measurement": "packets/s",
+    "friendly_name": "EX5601-T1 Pakket downloadsnelheid"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_pakket_uploadsnelheid",
+    "Friendly Name": "EX5601-T1 Pakket uploadsnelheid",
+    "24.2668219743273\tstate_class": "measurement",
+    "unit_of_measurement": "packets/s",
+    "friendly_name": "EX5601-T1 Pakket uploadsnelheid"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_pakketten_ontvangen",
+    "Friendly Name": "EX5601-T1 Pakketten ontvangen",
+    "11085162\tstate_class": "total_increasing",
+    "unit_of_measurement": "packets",
+    "friendly_name": "EX5601-T1 Pakketten ontvangen"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_pakketten_verzonden",
+    "Friendly Name": "EX5601-T1 Pakketten verzonden",
+    "12680964\tstate_class": "total_increasing",
+    "unit_of_measurement": "packets",
+    "friendly_name": "EX5601-T1 Pakketten verzonden"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_uploadsnelheid",
+    "Friendly Name": "EX5601-T1 Uploadsnelheid",
+    "5.29017057584169\tstate_class": "measurement",
+    "unit_of_measurement": "KiB/s",
+    "device_class": "data_rate",
+    "friendly_name": "EX5601-T1 Uploadsnelheid"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_uptime",
+    "Friendly Name": "EX5601-T1 Uptime",
+    "2724172\tunit_of_measurement": "s",
+    "device_class": "duration",
+    "friendly_name": "EX5601-T1 Uptime"
+  },
+  {
+    "Entity ID": "sensor.ex5601_t1_wan_status",
+    "Friendly Name": "EX5601-T1 WAN status",
+    "Connected\tfriendly_name": "EX5601-T1 WAN status"
+  },
+  {
+    "Entity ID": "sensor.f1_constructor_standings",
+    "Friendly Name": "F1_constructor_standings",
+    "unavailable\trestored": "true",
+    "icon": "mdi:factory",
+    "friendly_name": "F1_constructor_standings",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_constructor_standings_2",
+    "Friendly Name": "F1_constructor_standings",
+    "10\tseason": "2025",
+    "round": "12",
+    "constructor_standings": "",
+    "- position": "'10'",
+    "positionText": "'10'",
+    "points": "'19'",
+    "wins": "'0'",
+    "Constructor": "",
+    "constructorId": "alpine",
+    "url": "http://en.wikipedia.org/wiki/Alpine_F1_Team",
+    "name": "Alpine F1 Team",
+    "nationality": "French",
+    "icon": "mdi:factory",
+    "friendly_name": "F1_constructor_standings"
+  },
+  {
+    "Entity ID": "sensor.f1_current_season",
+    "Friendly Name": "F1_current_season",
+    "unavailable\trestored": "true",
+    "icon": "mdi:calendar-month",
+    "friendly_name": "F1_current_season",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_current_season_2",
+    "Friendly Name": "F1_current_season",
+    "24\tseason": "2025",
+    "races": "",
+    "- season": "'2025'",
+    "round": "'24'",
+    "url": "https://en.wikipedia.org/wiki/Yas_Marina_Circuit",
+    "raceName": "Abu Dhabi Grand Prix",
+    "Circuit": "",
+    "circuitId": "yas_marina",
+    "circuitName": "Yas Marina Circuit",
+    "Location": "",
+    "lat": "'24.4672'",
+    "long": "'54.6031'",
+    "locality": "Abu Dhabi",
+    "country": "UAE",
+    "date": "'2025-12-06'",
+    "time": "14:00:00Z",
+    "FirstPractice": "",
+    "SecondPractice": "",
+    "ThirdPractice": "",
+    "Qualifying": "",
+    "Sprint": "",
+    "SprintQualifying": "",
+    "icon": "mdi:calendar-month",
+    "friendly_name": "F1_current_season"
+  },
+  {
+    "Entity ID": "sensor.f1_driver_standings",
+    "Friendly Name": "F1_driver_standings",
+    "unavailable\trestored": "true",
+    "icon": "mdi:account-multiple-check",
+    "friendly_name": "F1_driver_standings",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_driver_standings_2",
+    "Friendly Name": "F1_driver_standings",
+    "21\tseason": "2025",
+    "round": "12",
+    "driver_standings": "",
+    "- position": "'21'",
+    "positionText": "'21'",
+    "points": "'0'",
+    "wins": "'0'",
+    "Driver": "",
+    "driverId": "doohan",
+    "permanentNumber": "'7'",
+    "code": "DOO",
+    "url": "http://en.wikipedia.org/wiki/Alpine_F1_Team",
+    "givenName": "Jack",
+    "familyName": "Doohan",
+    "dateOfBirth": "'2003-01-20'",
+    "nationality": "French",
+    "Constructors": "",
+    "- constructorId": "alpine",
+    "name": "Alpine F1 Team",
+    "icon": "mdi:account-multiple-check",
+    "friendly_name": "F1_driver_standings"
+  },
+  {
+    "Entity ID": "sensor.f1_last_race_results",
+    "Friendly Name": "F1_last_race_results",
+    "unavailable\trestored": "true",
+    "icon": "mdi:trophy",
+    "friendly_name": "F1_last_race_results",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_last_race_results_2",
+    "Friendly Name": "F1_last_race_results",
+    "Norris\tround": "12",
+    "race_name": "British Grand Prix",
+    "results": "",
+    "- number": "'43'",
+    "position": "'20'",
+    "points": "'0'",
+    "status": "Did not start",
+    "driver": "",
+    "permanentNumber": "'43'",
+    "code": "COL",
+    "givenName": "Franco",
+    "familyName": "Colapinto",
+    "constructor": "",
+    "constructorId": "alpine",
+    "name": "Alpine F1 Team",
+    "icon": "mdi:trophy",
+    "friendly_name": "F1_last_race_results"
+  },
+  {
+    "Entity ID": "sensor.f1_next_race",
+    "Friendly Name": "F1_next_race",
+    "unavailable\trestored": "true",
+    "device_class": "timestamp",
+    "icon": "mdi:flag-checkered",
+    "friendly_name": "F1_next_race",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_next_race_2",
+    "Friendly Name": "F1_next_race",
+    "2025-07-27T13": "00:00+00:00\tseason: 2025",
+    "round": "13",
+    "race_name": "Belgian Grand Prix",
+    "race_url": "https://en.wikipedia.org/wiki/2025_Belgian_Grand_Prix",
+    "circuit_id": "spa",
+    "circuit_name": "Circuit de Spa-Francorchamps",
+    "circuit_url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+    "circuit_lat": "50.4372",
+    "circuit_long": "5.97139",
+    "circuit_locality": "Spa",
+    "circuit_country": "Belgium",
+    "circuit_timezone": "Europe/Brussels",
+    "race_start": "2025-07-27T13:00:00+00:00",
+    "race_start_local": "2025-07-27T15:00:00+02:00",
+    "first_practice_start": "2025-07-25T10:30:00+00:00",
+    "first_practice_start_local": "2025-07-25T12:30:00+02:00",
+    "second_practice_start": "null",
+    "second_practice_start_local": "null",
+    "third_practice_start": "null",
+    "third_practice_start_local": "null",
+    "qualifying_start": "2025-07-26T14:00:00+00:00",
+    "qualifying_start_local": "2025-07-26T16:00:00+02:00",
+    "sprint_qualifying_start": "2025-07-25T14:30:00+00:00",
+    "sprint_qualifying_start_local": "2025-07-25T16:30:00+02:00",
+    "sprint_start": "2025-07-26T10:00:00+00:00",
+    "sprint_start_local": "2025-07-26T12:00:00+02:00",
+    "device_class": "timestamp",
+    "icon": "mdi:flag-checkered",
+    "friendly_name": "F1_next_race"
+  },
+  {
+    "Entity ID": "sensor.f1_race_week",
+    "Friendly Name": "F1_race_week",
+    "unavailable\trestored": "true",
+    "icon": "mdi:calendar-range",
+    "friendly_name": "F1_race_week",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_season_results",
+    "Friendly Name": "F1_season_results",
+    "unavailable\trestored": "true",
+    "icon": "mdi:podium",
+    "friendly_name": "F1_season_results",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_season_results_2",
+    "Friendly Name": "F1_season_results",
+    "5\traces": "",
+    "- round": "'5'",
+    "race_name": "Saudi Arabian Grand Prix",
+    "results": "",
+    "- number": "'10'",
+    "position": "'20'",
+    "points": "'0'",
+    "status": "Retired",
+    "driver": "",
+    "permanentNumber": "'10'",
+    "code": "GAS",
+    "givenName": "Pierre",
+    "familyName": "Gasly",
+    "constructor": "",
+    "constructorId": "alpine",
+    "name": "Alpine F1 Team",
+    "icon": "mdi:podium",
+    "friendly_name": "F1_season_results"
+  },
+  {
+    "Entity ID": "sensor.f1_weather",
+    "Friendly Name": "F1_weather",
+    "unavailable\trestored": "true",
+    "icon": "mdi:weather-partly-cloudy",
+    "friendly_name": "F1_weather",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.f1_weather_2",
+    "Friendly Name": "F1_weather",
+    "14.1\tcurrent_temperature": "14.1",
+    "current_temperature_unit": "celsius",
+    "current_humidity": "86.7",
+    "current_humidity_unit": "%",
+    "current_cloud_cover": "97.7",
+    "current_cloud_cover_unit": "%",
+    "current_precipitation": "0",
+    "current_precipitation_unit": "mm",
+    "current_wind_speed": "5.5",
+    "current_wind_speed_unit": "m/s",
+    "current_wind_direction": "NW",
+    "current_wind_from_direction_degrees": "323.1",
+    "current_wind_from_direction_unit": "degrees",
+    "race_temperature": "null",
+    "race_temperature_unit": "null",
+    "race_humidity": "null",
+    "race_humidity_unit": "null",
+    "race_cloud_cover": "null",
+    "race_cloud_cover_unit": "null",
+    "race_precipitation": "null",
+    "race_precipitation_unit": "null",
+    "race_wind_speed": "null",
+    "race_wind_speed_unit": "null",
+    "race_wind_direction": "null",
+    "race_wind_from_direction_degrees": "null",
+    "race_wind_from_direction_unit": "null",
+    "icon": "mdi:weather-pouring",
+    "friendly_name": "F1_weather"
+  },
+  {
+    "Entity ID": "sensor.file_editor_cpu_percentage",
+    "Friendly Name": "File editor CPU-percentage",
+    "0.01\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "File editor CPU-percentage"
+  },
+  {
+    "Entity ID": "sensor.file_editor_geheugenpercentage",
+    "Friendly Name": "File editor Geheugenpercentage",
+    "0.23\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "File editor Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.galaxy_watch6_hzqv_battery_level",
+    "Friendly Name": "Galaxy Watch6 (HZQV) Battery level",
+    "29\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:battery-20",
+    "friendly_name": "Galaxy Watch6 (HZQV) Battery level"
+  },
+  {
+    "Entity ID": "sensor.galaxy_watch6_hzqv_battery_state",
+    "Friendly Name": "Galaxy Watch6 (HZQV) Battery state",
+    "discharging\toptions": "charging, discharging, full, not_charging",
+    "device_class": "enum",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "Galaxy Watch6 (HZQV) Battery state"
+  },
+  {
+    "Entity ID": "sensor.galaxy_watch6_hzqv_charger_type",
+    "Friendly Name": "Galaxy Watch6 (HZQV) Charger type",
+    "none\toptions": "ac, usb, wireless, dock, none",
+    "device_class": "enum",
+    "icon": "mdi:battery",
+    "friendly_name": "Galaxy Watch6 (HZQV) Charger type"
+  },
+  {
+    "Entity ID": "sensor.gerard_afgebroken_missies",
+    "Friendly Name": "Gerard Afgebroken missies",
+    "285\tstate_class": "measurement",
+    "unit_of_measurement": "Missions",
+    "friendly_name": "Gerard Afgebroken missies"
+  },
+  {
+    "Entity ID": "sensor.gerard_batterij",
+    "Friendly Name": "Gerard Batterij",
+    "100\tunit_of_measurement": "%",
+    "device_class": "battery",
+    "friendly_name": "Gerard Batterij"
+  },
+  {
+    "Entity ID": "sensor.gerard_batterijcycli",
+    "Friendly Name": "Gerard Batterijcycli",
+    "485\tstate_class": "measurement",
+    "friendly_name": "Gerard Batterijcycli"
+  },
+  {
+    "Entity ID": "sensor.gerard_gemiddelde_missietijd",
+    "Friendly Name": "Gerard Gemiddelde missietijd",
+    "12\tunit_of_measurement": "min",
+    "friendly_name": "Gerard Gemiddelde missietijd"
+  },
+  {
+    "Entity ID": "sensor.gerard_last_mission_start_time",
+    "Friendly Name": "Gerard Last mission start time",
+    "unknown\tdevice_class": "timestamp",
+    "friendly_name": "Gerard Last mission start time"
+  },
+  {
+    "Entity ID": "sensor.gerard_mislukte_missies",
+    "Friendly Name": "Gerard Mislukte missies",
+    "43\tstate_class": "measurement",
+    "unit_of_measurement": "Missions",
+    "friendly_name": "Gerard Mislukte missies"
+  },
+  {
+    "Entity ID": "sensor.gerard_schrob_missies",
+    "Friendly Name": "Gerard Schrob missies",
+    "1379\tstate_class": "measurement",
+    "unit_of_measurement": "Scrubs",
+    "friendly_name": "Gerard Schrob missies"
+  },
+  {
+    "Entity ID": "sensor.gerard_succesvolle_missies",
+    "Friendly Name": "Gerard Succesvolle missies",
+    "343\tstate_class": "measurement",
+    "unit_of_measurement": "Missions",
+    "friendly_name": "Gerard Succesvolle missies"
+  },
+  {
+    "Entity ID": "sensor.gerard_totaal_aantal_missies",
+    "Friendly Name": "Gerard Totaal aantal missies",
+    "671\tstate_class": "measurement",
+    "unit_of_measurement": "Missions",
+    "friendly_name": "Gerard Totaal aantal missies"
+  },
+  {
+    "Entity ID": "sensor.gerard_totaal_schoonmaaktijd",
+    "Friendly Name": "Gerard Totaal schoonmaaktijd",
+    "340\tunit_of_measurement": "h",
+    "friendly_name": "Gerard Totaal schoonmaaktijd"
+  },
+  {
+    "Entity ID": "sensor.gerard_total_cleaned_area",
+    "Friendly Name": "Gerard Total cleaned area",
+    "12030.55\tunit_of_measurement": "m²",
+    "friendly_name": "Gerard Total cleaned area"
+  },
+  {
+    "Entity ID": "sensor.home_assistant_core_cpu_percent",
+    "Friendly Name": "Home Assistant Core CPU-percentage",
+    "0.69\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Home Assistant Core CPU-percentage"
+  },
+  {
+    "Entity ID": "sensor.home_assistant_core_memory_percent",
+    "Friendly Name": "Home Assistant Core Geheugenpercentage",
+    "5.24\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Home Assistant Core Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.home_assistant_supervisor_cpu_percent",
+    "Friendly Name": "Home Assistant Supervisor CPU-percentage",
+    "0.14\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Home Assistant Supervisor CPU-percentage"
+  },
+  {
+    "Entity ID": "sensor.home_assistant_supervisor_memory_percent",
+    "Friendly Name": "Home Assistant Supervisor Geheugenpercentage",
+    "16.21\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Home Assistant Supervisor Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.hp_envy_5540_series",
+    "Friendly Name": "HP ENVY 5540 series",
+    "idle\toptions": "idle, printing, stopped",
+    "info": "HP ENVY 5540 series [024E4E]",
+    "serial": "TH74R2W0F90671",
+    "location": "",
+    "state_message": "",
+    "state_reason": "null",
+    "command_set": "PCL3GUI,PJL,Automatic,JPEG,PCLM,AppleRaster,PWGRaster,DW-PCL,802.11,DESKJET,DYN",
+    "uri_supported": "ipp://192.168.1.6/ipp/print,ipps://192.168.1.6:443/ipp/print",
+    "device_class": "enum",
+    "friendly_name": "HP ENVY 5540 series"
+  },
+  {
+    "Entity ID": "sensor.hp_envy_5540_series_black_ink",
+    "Friendly Name": "HP ENVY 5540 series black ink",
+    "60\tstate_class": "measurement",
+    "marker_high_level": "100",
+    "marker_low_level": "1",
+    "marker_type": "ink-cartridge",
+    "unit_of_measurement": "%",
+    "friendly_name": "HP ENVY 5540 series black ink"
+  },
+  {
+    "Entity ID": "sensor.hp_envy_5540_series_tri_color_ink",
+    "Friendly Name": "HP ENVY 5540 series tri-color ink",
+    "70\tstate_class": "measurement",
+    "marker_high_level": "100",
+    "marker_low_level": "1",
+    "marker_type": "ink-cartridge",
+    "unit_of_measurement": "%",
+    "friendly_name": "HP ENVY 5540 series tri-color ink"
+  },
+  {
+    "Entity ID": "sensor.hue_bridge_zigbee_connectiviteit",
+    "Friendly Name": "Hue Bridge Zigbee connectiviteit",
+    "connected\toptions": "connected, disconnected, connectivity_issue, unidirectional_incoming",
+    "mac_address": "00:17:88:01:05:56:ea:25",
+    "device_class": "enum",
+    "friendly_name": "Hue Bridge Zigbee connectiviteit"
+  },
+  {
+    "Entity ID": "sensor.ikea_lamp_bureau_color_options",
+    "Friendly Name": "IKEA lamp bureau Color options",
+    "{'execute_if_off'": "False}\ticon: mdi:palette",
+    "friendly_name": "IKEA lamp bureau Color options"
+  },
+  {
+    "Entity ID": "sensor.ikea_remote_battery",
+    "Friendly Name": "IKEA remote Batterij",
+    "100\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "friendly_name": "IKEA remote Batterij"
+  },
+  {
+    "Entity ID": "sensor.ikea_stopcontact_current",
+    "Friendly Name": "IKEA stopcontact Stroom",
+    "0.67\tstate_class": "measurement",
+    "unit_of_measurement": "A",
+    "device_class": "current",
+    "friendly_name": "IKEA stopcontact Stroom"
+  },
+  {
+    "Entity ID": "sensor.ikea_stopcontact_energy",
+    "Friendly Name": "IKEA stopcontact Energie",
+    "16.74\tstate_class": "total_increasing",
+    "unit_of_measurement": "kWh",
+    "device_class": "energy",
+    "friendly_name": "IKEA stopcontact Energie"
+  },
+  {
+    "Entity ID": "sensor.ikea_stopcontact_energy_cost",
+    "Friendly Name": "sensor Cost",
+    "0.8\tstate_class": "total",
+    "last_reset": "2025-07-05T18:35:54.034037+00:00",
+    "unit_of_measurement": "EUR",
+    "device_class": "monetary",
+    "friendly_name": "sensor Cost"
+  },
+  {
+    "Entity ID": "sensor.ikea_stopcontact_power",
+    "Friendly Name": "IKEA stopcontact Vermogen",
+    "131\tstate_class": "measurement",
+    "unit_of_measurement": "W",
+    "device_class": "power",
+    "friendly_name": "IKEA stopcontact Vermogen"
+  },
+  {
+    "Entity ID": "sensor.ikea_stopcontact_voltage",
+    "Friendly Name": "IKEA stopcontact Spanning",
+    "223.1\tstate_class": "measurement",
+    "unit_of_measurement": "V",
+    "device_class": "voltage",
+    "friendly_name": "IKEA stopcontact Spanning"
+  },
+  {
+    "Entity ID": "sensor.ir_remote_battery",
+    "Friendly Name": "IR Remote Batterij",
+    "100\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "friendly_name": "IR Remote Batterij"
+  },
+  {
+    "Entity ID": "sensor.ir_remote_learned_ir_code",
+    "Friendly Name": "IR Remote Learned ir code",
+    "BU8jnRE8AuAXAQGSBuAhA+ADAUA34AcBQBPAA0ABC5IGPALjmk8jvQg8Ag==\tfriendly_name": "IR Remote Learned ir code"
+  },
+  {
+    "Entity ID": "sensor.ir_remote_voltage",
+    "Friendly Name": "IR Remote Spanning",
+    "1500\tstate_class": "measurement",
+    "unit_of_measurement": "mV",
+    "device_class": "voltage",
+    "friendly_name": "IR Remote Spanning"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_bomen",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Bomen",
+    "0\tstate_class": "measurement",
+    "level": "low",
+    "details": "",
+    "- name": "Cipres",
+    "value": "0",
+    "forecast": "",
+    "- date": "'2025-07-11'",
+    "unit_of_measurement": "ppm",
+    "icon": "mdi:tree-outline",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Bomen"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_bomen_niveau",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Bomen niveau",
+    "low\toptions": "low, moderate, high, very-high",
+    "device_class": "enum",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Bomen niveau"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_datum",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Datum",
+    "2025-07-07\traw": "",
+    "<svg class=\"circle-chart\" viewbox=\"0 0 33.83098862 33.83098862\" width=\"200\" height=\"200\" xmlns=\"http": "//www.w3.org/2000/svg\">",
+    "device_class": "date",
+    "icon": "mdi:calendar",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Datum"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_gras",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Gras",
+    "39\tstate_class": "measurement",
+    "level": "high",
+    "details": "",
+    "- name": "Poaceae",
+    "value": "97",
+    "forecast": "",
+    "- date": "'2025-07-11'",
+    "unit_of_measurement": "ppm",
+    "icon": "mdi:grass",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Gras"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_gras_niveau",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Gras niveau",
+    "moderate\toptions": "low, moderate, high, very-high",
+    "device_class": "enum",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Gras niveau"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_kruiden",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Kruiden",
+    "85\tstate_class": "measurement",
+    "level": "very-high",
+    "details": "",
+    "- name": "Brandnetel",
+    "value": "664",
+    "forecast": "",
+    "- date": "'2025-07-11'",
+    "unit_of_measurement": "ppm",
+    "icon": "mdi:flower-pollen",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Kruiden"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_kruiden_niveau",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Kruiden niveau",
+    "high\toptions": "low, moderate, high, very-high",
+    "device_class": "enum",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Kruiden niveau"
+  },
+  {
+    "Entity ID": "sensor.kleenex_pollen_radar_thuis_laatst_bijgewerkt",
+    "Friendly Name": "Kleenex Pollen Radar (Thuis) Laatst bijgewerkt",
+    "2025-07-07T16": "35:31+00:00\tdevice_class: timestamp",
+    "icon": "mdi:clock-outline",
+    "friendly_name": "Kleenex Pollen Radar (Thuis) Laatst bijgewerkt"
+  },
+  {
+    "Entity ID": "sensor.klimaat_humidity",
+    "Friendly Name": "Klimaat Luchtvochtigheid",
+    "55\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "humidity",
+    "friendly_name": "Klimaat Luchtvochtigheid"
+  },
+  {
+    "Entity ID": "sensor.klimaat_pm25",
+    "Friendly Name": "Klimaat PM2.5",
+    "1\tstate_class": "measurement",
+    "unit_of_measurement": "µg/m³",
+    "device_class": "pm25",
+    "friendly_name": "Klimaat PM2.5"
+  },
+  {
+    "Entity ID": "sensor.klimaat_temperature",
+    "Friendly Name": "Klimaat Temperatuur",
+    "22\tstate_class": "measurement",
+    "unit_of_measurement": "°C",
+    "device_class": "temperature",
+    "friendly_name": "Klimaat Temperatuur"
+  },
+  {
+    "Entity ID": "sensor.klimaat_voc_index",
+    "Friendly Name": "Klimaat VOC index",
+    "288\tstate_class": "measurement",
+    "icon": "mdi:molecule",
+    "friendly_name": "Klimaat VOC index"
+  },
+  {
+    "Entity ID": "sensor.local_ip",
+    "Friendly Name": "Local IP",
+    "192.168.1.111\tfriendly_name": "Local IP"
+  },
+  {
+    "Entity ID": "sensor.luchtkwaliteit_nl",
+    "Friendly Name": "Luchtkwaliteit (NL)",
+    "Uitstekend\tfriendly_name": "Luchtkwaliteit (NL)"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_cpubelasting",
+    "Friendly Name": "marco-pc W11MARCO_cpubelasting",
+    "5\tunit_of_measurement": "%",
+    "icon": "mdi:chart-areaspline",
+    "friendly_name": "marco-pc W11MARCO_cpubelasting"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_gebruikernotificatie",
+    "Friendly Name": "W11MARCO_gebruikernotificatie",
+    "unavailable\trestored": "true",
+    "icon": "mdi:laptop",
+    "friendly_name": "W11MARCO_gebruikernotificatie",
+    "supported_features": "0"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_gebruikernotificatie_2",
+    "Friendly Name": "marco-pc W11MARCO_gebruikernotificatie",
+    "Busy\ticon": "mdi:laptop",
+    "friendly_name": "marco-pc W11MARCO_gebruikernotificatie"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_geheugengebruik",
+    "Friendly Name": "marco-pc W11MARCO_geheugengebruik",
+    "44.66\tunit_of_measurement": "%",
+    "icon": "mdi:memory",
+    "friendly_name": "marco-pc W11MARCO_geheugengebruik"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_gputemperatuur",
+    "Friendly Name": "marco-pc W11MARCO_gputemperatuur",
+    "44\tunit_of_measurement": "°C",
+    "device_class": "temperature",
+    "friendly_name": "marco-pc W11MARCO_gputemperatuur"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_opslag_c",
+    "Friendly Name": "marco-pc W11MARCO_opslag C",
+    "C\tName": "C",
+    "Label": "-",
+    "FileSystem": "NTFS",
+    "TotalSizeMB": "1892222",
+    "AvailableSpaceMB": "1082947",
+    "UsedSpaceMB": "809275",
+    "AvailableSpacePercentage": "57",
+    "UsedSpacePercentage": "43",
+    "icon": "mdi:harddisk",
+    "friendly_name": "marco-pc W11MARCO_opslag C"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_opslag_p",
+    "Friendly Name": "marco-pc W11MARCO_opslag P",
+    "Programming\tName": "P",
+    "Label": "Programming",
+    "FileSystem": "NTFS",
+    "TotalSizeMB": "107370",
+    "AvailableSpaceMB": "105791",
+    "UsedSpaceMB": "1579",
+    "AvailableSpacePercentage": "99",
+    "UsedSpacePercentage": "1",
+    "icon": "mdi:harddisk",
+    "friendly_name": "marco-pc W11MARCO_opslag P"
+  },
+  {
+    "Entity ID": "sensor.marco_pc_w11marco_opslag_total_disk_count",
+    "Friendly Name": "marco-pc W11MARCO_opslag Total Disk Count",
+    "2\ticon": "mdi:harddisk",
+    "friendly_name": "marco-pc W11MARCO_opslag Total Disk Count"
+  },
+  {
+    "Entity ID": "sensor.matter_server_geheugenpercentage",
+    "Friendly Name": "Matter Server Geheugenpercentage",
+    "0.93\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Matter Server Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.mosquitto_broker_geheugenpercentage",
+    "Friendly Name": "Mosquitto broker Geheugenpercentage",
+    "0.41\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Mosquitto broker Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.motion_sensor_battery",
+    "Friendly Name": "Motion Sensor Batterij",
+    "100\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "friendly_name": "Motion Sensor Batterij"
+  },
+  {
+    "Entity ID": "sensor.motion_sensor_illuminance",
+    "Friendly Name": "Motion Sensor Licht",
+    "19\tstate_class": "measurement",
+    "unit_of_measurement": "lx",
+    "device_class": "illuminance",
+    "friendly_name": "Motion Sensor Licht"
+  },
+  {
+    "Entity ID": "sensor.motion_sensor_voltage",
+    "Friendly Name": "Motion Sensor Spanning",
+    "3000\tstate_class": "measurement",
+    "unit_of_measurement": "mV",
+    "device_class": "voltage",
+    "friendly_name": "Motion Sensor Spanning"
+  },
+  {
+    "Entity ID": "sensor.music_assistant_server_cpu_percentage",
+    "Friendly Name": "Music Assistant Server CPU-percentage",
+    "unavailable\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Music Assistant Server CPU-percentage"
+  },
+  {
+    "Entity ID": "sensor.music_assistant_server_geheugenpercentage",
+    "Friendly Name": "Music Assistant Server Geheugenpercentage",
+    "unavailable\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Music Assistant Server Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.music_assistant_server_nieuwste_versie",
+    "Friendly Name": "Music Assistant Server Nieuwste versie",
+    "2.5.5\tfriendly_name": "Music Assistant Server Nieuwste versie"
+  },
+  {
+    "Entity ID": "sensor.music_assistant_server_versie",
+    "Friendly Name": "Music Assistant Server Versie",
+    "2.5.5\tfriendly_name": "Music Assistant Server Versie"
+  },
+  {
+    "Entity ID": "sensor.node_red_geheugenpercentage",
+    "Friendly Name": "Node-RED Geheugenpercentage",
+    "0.78\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Node-RED Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.onedrive_gebruikte_opslag",
+    "Friendly Name": "OneDrive Gebruikte opslag",
+    "334.600000000559\tunit_of_measurement": "GiB",
+    "device_class": "data_size",
+    "friendly_name": "OneDrive Gebruikte opslag"
+  },
+  {
+    "Entity ID": "sensor.onedrive_resterende_opslag",
+    "Friendly Name": "OneDrive Resterende opslag",
+    "694.399999999441\tunit_of_measurement": "GiB",
+    "device_class": "data_size",
+    "friendly_name": "OneDrive Resterende opslag"
+  },
+  {
+    "Entity ID": "sensor.onedrive_schijfstatus",
+    "Friendly Name": "OneDrive Schijfstatus",
+    "normal\toptions": "normal, nearing, critical, exceeded",
+    "device_class": "enum",
+    "friendly_name": "OneDrive Schijfstatus"
+  },
+  {
+    "Entity ID": "sensor.rpc_shutdown_geheugenpercentage",
+    "Friendly Name": "RPC Shutdown Geheugenpercentage",
+    "0.17\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "RPC Shutdown Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_mama_battery_level",
+    "Friendly Name": "S22Ultra Mama Battery level",
+    "45\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:battery-40",
+    "friendly_name": "S22Ultra Mama Battery level"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_mama_battery_state",
+    "Friendly Name": "S22Ultra Mama Battery state",
+    "discharging\toptions": "charging, discharging, full, not_charging",
+    "device_class": "enum",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "S22Ultra Mama Battery state"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_mama_charger_type",
+    "Friendly Name": "S22Ultra Mama Charger type",
+    "none\toptions": "ac, usb, wireless, dock, none",
+    "device_class": "enum",
+    "icon": "mdi:battery",
+    "friendly_name": "S22Ultra Mama Charger type"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_mama_geocoded_location",
+    "Friendly Name": "S22Ultra Mama Geocoded location",
+    "Gassingel 40, 9671 CX Winschoten, Nederland\tadministrative_area": "Groningen",
+    "country": "Nederland",
+    "iso_country_code": "NL",
+    "locality": "Winschoten",
+    "location": "53.146618, 7.0350876",
+    "name": "40",
+    "phone": "null",
+    "postal_code": "9671 CX",
+    "premises": "null",
+    "sub_administrative_area": "Oldambt",
+    "sub_locality": "null",
+    "sub_thoroughfare": "40",
+    "thoroughfare": "Gassingel",
+    "url": "null",
+    "icon": "mdi:map",
+    "friendly_name": "S22Ultra Mama Geocoded location"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_mama_high_accuracy_update_interval",
+    "Friendly Name": "S22Ultra Mama High accuracy update interval",
+    "unknown\tunit_of_measurement": "seconds",
+    "icon": "mdi:timer",
+    "friendly_name": "S22Ultra Mama High accuracy update interval"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_papa_battery_level",
+    "Friendly Name": "S22Ultra papa Battery level",
+    "70\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:battery-70",
+    "friendly_name": "S22Ultra papa Battery level"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_papa_battery_state",
+    "Friendly Name": "S22Ultra papa Battery state",
+    "discharging\toptions": "charging, discharging, full, not_charging",
+    "device_class": "enum",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "S22Ultra papa Battery state"
+  },
+  {
+    "Entity ID": "sensor.s22ultra_papa_charger_type",
+    "Friendly Name": "S22Ultra papa Charger type",
+    "none\toptions": "ac, usb, wireless, dock, none",
+    "device_class": "enum",
+    "icon": "mdi:battery",
+    "friendly_name": "S22Ultra papa Charger type"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_active_calories_burned",
+    "Friendly Name": "S25Ultra Active calories burned",
+    "unknown\tunit_of_measurement": "kcal",
+    "device_class": "energy",
+    "icon": "mdi:fire",
+    "friendly_name": "S25Ultra Active calories burned"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_battery_level",
+    "Friendly Name": "S25Ultra Battery level",
+    "78\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:battery-70",
+    "friendly_name": "S25Ultra Battery level"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_battery_state",
+    "Friendly Name": "S25Ultra Battery state",
+    "discharging\toptions": "charging, discharging, full, not_charging",
+    "device_class": "enum",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "S25Ultra Battery state"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_body_fat",
+    "Friendly Name": "S25Ultra Body fat",
+    "15.18\tunit_of_measurement": "%",
+    "icon": "mdi:scale-bathroom",
+    "friendly_name": "S25Ultra Body fat",
+    "date": "2025-06-02T22:06:29.705Z",
+    "source": "com.sec.android.app.shealth"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_car_fuel",
+    "Friendly Name": "S25Ultra Car fuel",
+    "unavailable\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:barrel",
+    "friendly_name": "S25Ultra Car fuel"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_car_odometer",
+    "Friendly Name": "S25Ultra Car odometer",
+    "unavailable\tstate_class": "total_increasing",
+    "unit_of_measurement": "m",
+    "device_class": "distance",
+    "icon": "mdi:map-marker-distance",
+    "friendly_name": "S25Ultra Car odometer"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_car_speed",
+    "Friendly Name": "S25Ultra Car speed",
+    "unavailable\tstate_class": "measurement",
+    "unit_of_measurement": "m/s",
+    "device_class": "speed",
+    "icon": "mdi:speedometer",
+    "friendly_name": "S25Ultra Car speed"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_charger_type",
+    "Friendly Name": "S25Ultra Charger type",
+    "none\toptions": "ac, usb, wireless, dock, none",
+    "device_class": "enum",
+    "icon": "mdi:battery",
+    "friendly_name": "S25Ultra Charger type"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_daily_distance",
+    "Friendly Name": "S25Ultra Daily distance",
+    "0\tstate_class": "total_increasing",
+    "endTime": "2025-07-06T22:04:22.291Z",
+    "sources": "",
+    "unit_of_measurement": "m",
+    "device_class": "distance",
+    "icon": "mdi:map-marker-distance",
+    "friendly_name": "S25Ultra Daily distance"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_daily_steps",
+    "Friendly Name": "S25Ultra Daily steps",
+    "143.0\tstate_class": "total_increasing",
+    "endTime": "2025-07-07T16:43:38.241Z",
+    "sources": "com.sec.android.app.shealth",
+    "unit_of_measurement": "steps",
+    "icon": "mdi:walk",
+    "friendly_name": "S25Ultra Daily steps"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_heart_rate",
+    "Friendly Name": "S25Ultra Heart rate",
+    "55.0\tdate": "2025-07-07T10:30:29.336Z",
+    "source": "com.sec.android.app.shealth",
+    "unit_of_measurement": "bpm",
+    "icon": "mdi:heart-pulse",
+    "friendly_name": "S25Ultra Heart rate"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_oxygen_saturation",
+    "Friendly Name": "S25Ultra Oxygen saturation",
+    "91.0\tdate": "2025-07-06T22:52:00Z",
+    "source": "com.sec.android.app.shealth",
+    "unit_of_measurement": "%",
+    "icon": "mdi:sleep",
+    "friendly_name": "S25Ultra Oxygen saturation"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_sleep_confidence",
+    "Friendly Name": "S25Ultra Sleep confidence",
+    "1\tstate_class": "measurement",
+    "light": "4",
+    "motion": "5",
+    "timestamp": "1751906494000",
+    "unit_of_measurement": "%",
+    "icon": "mdi:sleep",
+    "friendly_name": "S25Ultra Sleep confidence"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_sleep_duration",
+    "Friendly Name": "S25Ultra Sleep duration",
+    "508.0\tendTime": "2025-07-07T07:20:00Z",
+    "sources": "com.sec.android.app.shealth",
+    "unit_of_measurement": "min",
+    "device_class": "duration",
+    "icon": "mdi:sleep",
+    "friendly_name": "S25Ultra Sleep duration"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_vo2_max",
+    "Friendly Name": "S25Ultra VO2 max",
+    "45.44\tdate": "2025-06-28T15:12:05.068Z",
+    "measurementMethod": "other",
+    "source": "com.sec.android.app.shealth",
+    "unit_of_measurement": "mL/kg/min",
+    "icon": "mdi:heart",
+    "friendly_name": "S25Ultra VO2 max"
+  },
+  {
+    "Entity ID": "sensor.s25ultra_weight",
+    "Friendly Name": "S25Ultra Weight",
+    "65500.0\tdate": "2025-06-03T11:19:11.021Z",
+    "source": "com.google.android.apps.fitness",
+    "unit_of_measurement": "g",
+    "device_class": "weight",
+    "icon": "mdi:scale-bathroom",
+    "friendly_name": "S25Ultra Weight"
+  },
+  {
+    "Entity ID": "sensor.samba_share_geheugenpercentage",
+    "Friendly Name": "Samba share Geheugenpercentage",
+    "0.26\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Samba share Geheugenpercentage"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_accent_color",
+    "Friendly Name": "Samsung A12 Accent color",
+    "#00668B\trgb_color": "0, 102, 139",
+    "icon": "mdi:palette",
+    "friendly_name": "Samsung A12 Accent color"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_battery_health",
+    "Friendly Name": "Samsung A12 Battery health",
+    "good\toptions": "cold, dead, good, overheated, over_voltage, failed",
+    "device_class": "enum",
+    "icon": "mdi:battery-heart-variant",
+    "friendly_name": "Samsung A12 Battery health"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_battery_level",
+    "Friendly Name": "Samsung A12 Battery level",
+    "0\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:battery-outline",
+    "friendly_name": "Samsung A12 Battery level"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_battery_power",
+    "Friendly Name": "Samsung A12 Battery power",
+    "0.0\tstate_class": "measurement",
+    "current": "-0.000109",
+    "voltage": "3.437",
+    "unit_of_measurement": "W",
+    "device_class": "power",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "Samsung A12 Battery power"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_battery_state",
+    "Friendly Name": "Samsung A12 Battery state",
+    "discharging\toptions": "charging, discharging, full, not_charging",
+    "device_class": "enum",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "Samsung A12 Battery state"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_battery_temperature",
+    "Friendly Name": "Samsung A12 Battery temperature",
+    "22.3\tstate_class": "measurement",
+    "unit_of_measurement": "°C",
+    "device_class": "temperature",
+    "icon": "mdi:battery",
+    "friendly_name": "Samsung A12 Battery temperature"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_charger_type",
+    "Friendly Name": "Samsung A12 Charger type",
+    "none\toptions": "ac, usb, wireless, dock, none",
+    "device_class": "enum",
+    "icon": "mdi:battery",
+    "friendly_name": "Samsung A12 Charger type"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_detected_activity",
+    "Friendly Name": "Samsung A12 Detected activity",
+    "still\toptions": "in_vehicle, on_bicycle, on_foot, still, tilting, walking, running",
+    "still": "100",
+    "device_class": "enum",
+    "icon": "mdi:human-male",
+    "friendly_name": "Samsung A12 Detected activity"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_geocoded_location",
+    "Friendly Name": "Samsung A12 Geocoded location",
+    "Gassingel 42, 9671 CX Winschoten, Nederland\tadministrative_area": "Groningen",
+    "country": "Nederland",
+    "iso_country_code": "NL",
+    "locality": "Winschoten",
+    "location": "53.1466354, 7.035053500000001",
+    "name": "42",
+    "phone": "null",
+    "postal_code": "9671 CX",
+    "premises": "null",
+    "sub_administrative_area": "Oldambt",
+    "sub_locality": "null",
+    "sub_thoroughfare": "42",
+    "thoroughfare": "Gassingel",
+    "url": "null",
+    "icon": "mdi:map",
+    "friendly_name": "Samsung A12 Geocoded location"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_high_accuracy_update_interval",
+    "Friendly Name": "Samsung A12 High accuracy update interval",
+    "unknown\tunit_of_measurement": "seconds",
+    "icon": "mdi:timer",
+    "friendly_name": "Samsung A12 High accuracy update interval"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_last_used_app",
+    "Friendly Name": "Samsung A12 Last used app"
+  },
+  {
+    "Entity ID": "io.homeassistant.companion.android\tLabel: Home Assistant",
+    "Friendly Name": "icon: mdi:android",
+    "friendly_name": "Samsung A12 Last used app"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_media_session",
+    "Friendly Name": "Samsung A12 Media session",
+    "unavailable\tdevice_class": "enum",
+    "icon": "mdi:play-circle",
+    "friendly_name": "Samsung A12 Media session"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_proximity_sensor",
+    "Friendly Name": "Samsung A12 Proximity sensor",
+    "far\ticon": "mdi:leak",
+    "friendly_name": "Samsung A12 Proximity sensor"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_remaining_charge_time",
+    "Friendly Name": "Samsung A12 Remaining charge time",
+    "0\tunit_of_measurement": "min",
+    "device_class": "duration",
+    "icon": "mdi:battery-clock",
+    "friendly_name": "Samsung A12 Remaining charge time"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_screen_orientation",
+    "Friendly Name": "Samsung A12 Screen orientation",
+    "portrait\toptions": "portrait, landscape, square, unknown",
+    "icon": "mdi:phone-rotate-portrait",
+    "friendly_name": "Samsung A12 Screen orientation"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_screen_rotation",
+    "Friendly Name": "Samsung A12 Screen rotation",
+    "0\toptions": "0, 90, 180, 270",
+    "unit_of_measurement": "°",
+    "icon": "mdi:screen-rotation",
+    "friendly_name": "Samsung A12 Screen rotation"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_steps_sensor",
+    "Friendly Name": "Samsung A12 Steps sensor",
+    "2\tstate_class": "total_increasing",
+    "unit_of_measurement": "steps",
+    "icon": "mdi:walk",
+    "friendly_name": "Samsung A12 Steps sensor"
+  },
+  {
+    "Entity ID": "sensor.samsung_a12_wi_fi_link_speed",
+    "Friendly Name": "Samsung A12 Wi-Fi link speed",
+    "72\tstate_class": "measurement",
+    "unit_of_measurement": "Mbps",
+    "icon": "mdi:wifi-strength-2",
+    "friendly_name": "Samsung A12 Wi-Fi link speed"
+  },
+  {
+    "Entity ID": "sensor.sun_next_dawn",
+    "Friendly Name": "Sun Volgende dageraad",
+    "2025-07-08T02": "25:27+00:00\tdevice_class: timestamp",
+    "friendly_name": "Sun Volgende dageraad"
+  },
+  {
+    "Entity ID": "sensor.sun_next_dusk",
+    "Friendly Name": "Sun Volgende schemering",
+    "2025-07-07T20": "48:41+00:00\tdevice_class: timestamp",
+    "friendly_name": "Sun Volgende schemering"
+  },
+  {
+    "Entity ID": "sensor.sun_next_midnight",
+    "Friendly Name": "Sun Volgende middernacht",
+    "2025-07-07T23": "37:01+00:00\tdevice_class: timestamp",
+    "friendly_name": "Sun Volgende middernacht"
+  },
+  {
+    "Entity ID": "sensor.sun_next_noon",
+    "Friendly Name": "Sun Volgende middag",
+    "2025-07-08T11": "36:56+00:00\tdevice_class: timestamp",
+    "friendly_name": "Sun Volgende middag"
+  },
+  {
+    "Entity ID": "sensor.sun_next_rising",
+    "Friendly Name": "Sun Volgende opkomst",
+    "2025-07-08T03": "16:15+00:00\tdevice_class: timestamp",
+    "friendly_name": "Sun Volgende opkomst"
+  },
+  {
+    "Entity ID": "sensor.sun_next_setting",
+    "Friendly Name": "Sun Volgende ondergang",
+    "2025-07-07T19": "57:53+00:00\tdevice_class: timestamp",
+    "friendly_name": "Sun Volgende ondergang"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_disk_use_media",
+    "Friendly Name": "System Monitor Disk use /media",
+    "81.9\tstate_class": "measurement",
+    "unit_of_measurement": "GiB",
+    "device_class": "data_size",
+    "friendly_name": "System Monitor Disk use /media"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_memory_free",
+    "Friendly Name": "System Monitor Memory free",
+    "13821.6\tstate_class": "measurement",
+    "unit_of_measurement": "MiB",
+    "device_class": "data_size",
+    "friendly_name": "System Monitor Memory free"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_memory_use",
+    "Friendly Name": "System Monitor Memory use",
+    "1956.5\tstate_class": "measurement",
+    "unit_of_measurement": "MiB",
+    "device_class": "data_size",
+    "friendly_name": "System Monitor Memory use"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_network_out_enp1s0",
+    "Friendly Name": "System Monitor Network out enp1s0",
+    "169326.4\tstate_class": "total_increasing",
+    "unit_of_measurement": "MiB",
+    "device_class": "data_size",
+    "friendly_name": "System Monitor Network out enp1s0"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_network_throughput_in_enp1s0",
+    "Friendly Name": "System Monitor Network throughput in enp1s0",
+    "0.026\tstate_class": "measurement",
+    "unit_of_measurement": "MB/s",
+    "device_class": "data_rate",
+    "friendly_name": "System Monitor Network throughput in enp1s0"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_processor_use",
+    "Friendly Name": "System Monitor Processor use",
+    "2\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "icon": "mdi:cpu-64-bit",
+    "friendly_name": "System Monitor Processor use"
+  },
+  {
+    "Entity ID": "sensor.system_monitor_processortemperatuur",
+    "Friendly Name": "System Monitor Processortemperatuur",
+    "41.0\tstate_class": "measurement",
+    "unit_of_measurement": "°C",
+    "device_class": "temperature",
+    "friendly_name": "System Monitor Processortemperatuur"
+  },
+  {
+    "Entity ID": "sensor.tab_s9fe_marco_battery_level",
+    "Friendly Name": "Tab s9FE Marco Battery level",
+    "65\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "device_class": "battery",
+    "icon": "mdi:battery-60",
+    "friendly_name": "Tab s9FE Marco Battery level"
+  },
+  {
+    "Entity ID": "sensor.tab_s9fe_marco_battery_state",
+    "Friendly Name": "Tab s9FE Marco Battery state",
+    "discharging\toptions": "charging, discharging, full, not_charging",
+    "device_class": "enum",
+    "icon": "mdi:battery-minus",
+    "friendly_name": "Tab s9FE Marco Battery state"
+  },
+  {
+    "Entity ID": "sensor.tab_s9fe_marco_charger_type",
+    "Friendly Name": "Tab s9FE Marco Charger type",
+    "none\toptions": "ac, usb, wireless, dock, none",
+    "device_class": "enum",
+    "icon": "mdi:battery",
+    "friendly_name": "Tab s9FE Marco Charger type"
+  },
+  {
+    "Entity ID": "sensor.tab_s9fe_marco_detected_activity",
+    "Friendly Name": "Tab s9FE Marco Detected activity",
+    "still\toptions": "in_vehicle, on_bicycle, on_foot, still, tilting, walking, running",
+    "still": "100",
+    "device_class": "enum",
+    "icon": "mdi:human-male",
+    "friendly_name": "Tab s9FE Marco Detected activity"
+  },
+  {
+    "Entity ID": "sensor.tab_s9fe_marco_light_sensor",
+    "Friendly Name": "Tab s9FE Marco Light sensor",
+    "0\tstate_class": "measurement",
+    "unit_of_measurement": "lx",
+    "device_class": "illuminance",
+    "icon": "mdi:brightness-5",
+    "friendly_name": "Tab s9FE Marco Light sensor"
+  },
+  {
+    "Entity ID": "sensor.voc_status",
+    "Friendly Name": "VOC Status",
+    "Slecht\tfriendly_name": "VOC Status"
+  },
+  {
+    "Entity ID": "sensor.vuilniis",
+    "Friendly Name": "Vuilniis",
+    "unknown\tfriendly_name": "Vuilniis"
+  },
+  {
+    "Entity ID": "sensor.waze_travel_time",
+    "Friendly Name": "Waze Travel Time",
+    "35\tstate_class": "measurement",
+    "duration": "34.88333333333333",
+    "distance": "46.381",
+    "route": "N366 - Provinciale Weg; N33",
+    "origin": "53.1466221,7.035099",
+    "destination": "52.9758377,6.5592025",
+    "unit_of_measurement": "min",
+    "attribution": "Powered by Waze",
+    "device_class": "duration",
+    "friendly_name": "Waze Travel Time"
+  },
+  {
+    "Entity ID": "sensor.zigbee2mqtt_bridge_network_map",
+    "Friendly Name": "Zigbee2MQTT Bridge Network map",
+    "2025-07-06 19": "26:14\tlinks:",
+    "- depth": "15",
+    "linkquality": "223",
+    "lqi": "223",
+    "relationship": "2",
+    "routes": "[]",
+    "source": "",
+    "ieeeAddr": "'0x90395efffe479903'",
+    "networkAddress": "49964",
+    "sourceIeeeAddr": "'0x8c8b48fffe74eee4'",
+    "sourceNwkAddr": "47562",
+    "target": "",
+    "targetIeeeAddr": "'0x90395efffe479903'",
+    "nodes": "",
+    "- failed": "[]",
+    "friendlyName": "Ikea_Luchtreiniger",
+    "type": "Router",
+    "- definition": "",
+    "description": "STARKVIND air purifier table",
+    "model": "E2006",
+    "supports": ">-",
+    "vendor": "IKEA",
+    "failed": "[]",
+    "lastSeen": "1751822709398",
+    "manufacturerName": "IKEA of Sweden",
+    "modelID": "STARKVIND Air purifier table",
+    "friendly_name": "Zigbee2MQTT Bridge Network map"
+  },
+  {
+    "Entity ID": "sensor.zigbee2mqtt_bridge_version",
+    "Friendly Name": "Zigbee2MQTT Bridge Version",
+    "2.5.1\ticon": "mdi:zigbee",
+    "friendly_name": "Zigbee2MQTT Bridge Version"
+  },
+  {
+    "Entity ID": "sensor.zigbee2mqtt_geheugenpercentage",
+    "Friendly Name": "Zigbee2MQTT Geheugenpercentage",
+    "0.56\tstate_class": "measurement",
+    "unit_of_measurement": "%",
+    "friendly_name": "Zigbee2MQTT Geheugenpercentage"
+  },
+  {
+    "Entity ID": "siren.camera_siren",
+    "Friendly Name": "Camera Siren",
+    "off\tfriendly_name": "Camera Siren",
+    "supported_features": "19"
+  },
+  {
+    "Entity ID": "sun.sun",
+    "Friendly Name": "Sun",
+    "above_horizon\tnext_dawn": "2025-07-08T02:25:27.262997+00:00",
+    "next_dusk": "2025-07-07T20:48:41.005993+00:00",
+    "next_midnight": "2025-07-07T23:37:01+00:00",
+    "next_noon": "2025-07-08T11:36:56+00:00",
+    "next_rising": "2025-07-08T03:16:15.207902+00:00",
+    "next_setting": "2025-07-07T19:57:53.993925+00:00",
+    "elevation": "25.58",
+    "azimuth": "273.99",
+    "rising": "false",
+    "friendly_name": "Sun"
+  },
+  {
+    "Entity ID": "switch.0x90395efffe479903_child_lock",
+    "Friendly Name": "Ikea_Luchtreiniger Child lock",
+    "off\ticon": "mdi:account-lock",
+    "friendly_name": "Ikea_Luchtreiniger Child lock"
+  },
+  {
+    "Entity ID": "switch.0x90395efffe479903_led_enable",
+    "Friendly Name": "Ikea_Luchtreiniger Led enable",
+    "on\ticon": "mdi:led-on",
+    "friendly_name": "Ikea_Luchtreiniger Led enable"
+  },
+  {
+    "Entity ID": "switch.adaptive_lighting_adapt_brightness_kantoor_adaptief_licht",
+    "Friendly Name": "Adaptive Lighting Adapt Brightness: Kantoor Adaptief Licht",
+    "on\ticon": "mdi:brightness-4",
+    "friendly_name": "Adaptive Lighting Adapt Brightness: Kantoor Adaptief Licht"
+  },
+  {
+    "Entity ID": "switch.adaptive_lighting_adapt_color_kantoor_adaptief_licht",
+    "Friendly Name": "Adaptive Lighting Adapt Color: Kantoor Adaptief Licht",
+    "on\ticon": "mdi:sun-thermometer",
+    "friendly_name": "Adaptive Lighting Adapt Color: Kantoor Adaptief Licht"
+  },
+  {
+    "Entity ID": "switch.adaptive_lighting_kantoor_adaptief_licht",
+    "Friendly Name": "Adaptive Lighting: Kantoor Adaptief Licht",
+    "on\tconfiguration": "",
+    "manual_control": "light.hue_play_gradient_lightstrip_1_2, light.ikea_lamp_bureau, light.ledstrip_kantoor",
+    "brightness_pct": "100",
+    "color_temp_kelvin": "5470",
+    "color_temp_mired": "182",
+    "rgb_color": "255, 236.94902685088402, 221.31891542153517",
+    "xy_color": "0.355, 0.344",
+    "hs_color": "27.429, 13.725",
+    "sun_position": "0.7607242797446379",
+    "force_rgb_color": "false",
+    "autoreset_time_remaining": "",
+    "icon": "mdi:theme-light-dark",
+    "friendly_name": "Adaptive Lighting: Kantoor Adaptief Licht"
+  },
+  {
+    "Entity ID": "switch.adaptive_lighting_sleep_mode_kantoor_adaptief_licht",
+    "Friendly Name": "Adaptive Lighting Sleep Mode: Kantoor Adaptief Licht",
+    "off\ticon": "mdi:sleep",
+    "friendly_name": "Adaptive Lighting Sleep Mode: Kantoor Adaptief Licht"
+  },
+  {
+    "Entity ID": "switch.automation_aanwezigheid_nabootsen",
+    "Friendly Name": "Automation: Aanwezigheid nabootsen",
+    "on\tdevice_class": "switch",
+    "friendly_name": "Automation: Aanwezigheid nabootsen"
+  },
+  {
+    "Entity ID": "switch.automation_h",
+    "Friendly Name": "Automation: H",
+    "off\tdevice_class": "switch",
+    "friendly_name": "Automation: H"
+  },
+  {
+    "Entity ID": "switch.automation_ontwaken",
+    "Friendly Name": "Automation: Ontwaken",
+    "on\tdevice_class": "switch",
+    "friendly_name": "Automation: Ontwaken"
+  },
+  {
+    "Entity ID": "switch.automation_state_after_streaming",
+    "Friendly Name": "Automation: state_after_streaming",
+    "on\tdevice_class": "switch",
+    "friendly_name": "Automation: state_after_streaming"
+  },
+  {
+    "Entity ID": "switch.camera_auto_track",
+    "Friendly Name": "Camera Auto Track",
+    "off\ticon": "mdi:radar",
+    "friendly_name": "Camera Auto Track"
+  },
+  {
+    "Entity ID": "switch.camera_automatically_upgrade_firmware",
+    "Friendly Name": "Camera Automatically Upgrade Firmware",
+    "on\ticon": "mdi:cloud-download",
+    "friendly_name": "Camera Automatically Upgrade Firmware"
+  },
+  {
+    "Entity ID": "switch.camera_diagnose_mode",
+    "Friendly Name": "Camera Diagnose Mode",
+    "off\ticon": "mdi:tools",
+    "friendly_name": "Camera Diagnose Mode"
+  },
+  {
+    "Entity ID": "switch.camera_flip",
+    "Friendly Name": "Camera Flip",
+    "off\ticon": "mdi:flip-vertical",
+    "friendly_name": "Camera Flip"
+  },
+  {
+    "Entity ID": "switch.camera_indicator_led",
+    "Friendly Name": "Camera Indicator LED",
+    "off\ticon": "mdi:car-light-high",
+    "friendly_name": "Camera Indicator LED"
+  },
+  {
+    "Entity ID": "switch.camera_lens_distortion_correction",
+    "Friendly Name": "Camera Lens Distortion Correction",
+    "off\ticon": "mdi:google-lens",
+    "friendly_name": "Camera Lens Distortion Correction"
+  },
+  {
+    "Entity ID": "switch.camera_media_sync",
+    "Friendly Name": "Camera Media Sync",
+    "on\tsync_hours": "168",
+    "storage_path": "/config/.storage/tapo_control/01JXWGT7SSDWN7R78P4ANG7PEC",
+    "icon": "mdi:sync",
+    "friendly_name": "Camera Media Sync"
+  },
+  {
+    "Entity ID": "switch.camera_microphone_mute",
+    "Friendly Name": "Camera Microphone - Mute",
+    "off\ticon": "mdi:microphone-off",
+    "friendly_name": "Camera Microphone - Mute"
+  },
+  {
+    "Entity ID": "switch.camera_microphone_noise_cancellation",
+    "Friendly Name": "Camera Microphone - Noise Cancellation",
+    "on\ticon": "mdi:microphone-settings",
+    "friendly_name": "Camera Microphone - Noise Cancellation"
+  },
+  {
+    "Entity ID": "switch.camera_notifications",
+    "Friendly Name": "Camera Notifications",
+    "on\ticon": "mdi:bell",
+    "friendly_name": "Camera Notifications"
+  },
+  {
+    "Entity ID": "switch.camera_privacy",
+    "Friendly Name": "Camera Privacy",
+    "off\ticon": "mdi:eye-outline",
+    "friendly_name": "Camera Privacy"
+  },
+  {
+    "Entity ID": "switch.camera_privacy_zones",
+    "Friendly Name": "Camera Privacy Zones",
+    "off\ticon": "mdi:eye-lock",
+    "friendly_name": "Camera Privacy Zones"
+  },
+  {
+    "Entity ID": "switch.camera_record_audio",
+    "Friendly Name": "Camera Record Audio",
+    "on\ticon": "mdi:microphone",
+    "friendly_name": "Camera Record Audio"
+  },
+  {
+    "Entity ID": "switch.camera_record_to_sd_card",
+    "Friendly Name": "Camera Record to SD Card",
+    "off\ticon": "mdi:record-rec",
+    "friendly_name": "Camera Record to SD Card"
+  },
+  {
+    "Entity ID": "switch.camera_rich_notifications",
+    "Friendly Name": "Camera Rich Notifications",
+    "on\ticon": "mdi:bell",
+    "friendly_name": "Camera Rich Notifications"
+  },
+  {
+    "Entity ID": "switch.camera_smart_track_baby",
+    "Friendly Name": "Camera Smart Track - Baby",
+    "off\ticon": "mdi:eye-lock",
+    "friendly_name": "Camera Smart Track - Baby"
+  },
+  {
+    "Entity ID": "switch.camera_smart_track_people",
+    "Friendly Name": "Camera Smart Track - People",
+    "off\ticon": "mdi:eye-lock",
+    "friendly_name": "Camera Smart Track - People"
+  },
+  {
+    "Entity ID": "switch.camera_smart_track_pet",
+    "Friendly Name": "Camera Smart Track - Pet",
+    "off\ticon": "mdi:eye-lock",
+    "friendly_name": "Camera Smart Track - Pet"
+  },
+  {
+    "Entity ID": "switch.camera_smart_track_vehicle",
+    "Friendly Name": "Camera Smart Track - Vehicle",
+    "off\ticon": "mdi:eye-lock",
+    "friendly_name": "Camera Smart Track - Vehicle"
+  },
+  {
+    "Entity ID": "switch.ikea_stopcontact",
+    "Friendly Name": "IKEA stopcontact",
+    "on\tfriendly_name": "IKEA stopcontact"
+  },
+  {
+    "Entity ID": "switch.ir_remote_learn_ir_code",
+    "Friendly Name": "IR Remote Learn ir code",
+    "unknown\tfriendly_name": "IR Remote Learn ir code"
+  },
+  {
+    "Entity ID": "switch.kerstboom_stopcontact_1",
+    "Friendly Name": "Koelkast",
+    "on\tdevice_class": "outlet",
+    "friendly_name": "Koelkast"
+  },
+  {
+    "Entity ID": "switch.stopcontact_kamerlamp_keuken_stopcontact_1",
+    "Friendly Name": "Lamp keuken Stopcontact 1",
+    "off\tdevice_class": "outlet",
+    "friendly_name": "Lamp keuken Stopcontact 1"
+  },
+  {
+    "Entity ID": "switch.zigbee2mqtt_bridge_permit_join",
+    "Friendly Name": "Zigbee2MQTT Bridge Permit join",
+    "off\ticon": "mdi:human-greeting-proximity",
+    "friendly_name": "Zigbee2MQTT Bridge Permit join"
+  },
+  {
+    "Entity ID": "tag.kantoor_toggle",
+    "Friendly Name": "Kantoor toggle",
+    "2025-07-05T20": "13:19.392+00:00\ttag_id: 1",
+    "last_scanned_by_device_id": "f8aaf1f8ccea2809123df17c10b50116",
+    "friendly_name": "Kantoor toggle"
+  },
+  {
+    "Entity ID": "tag.nfc_drupple_marco",
+    "Friendly Name": "Nfc drupple Marco",
+    "unknown\ttag_id": "Marco_tag",
+    "last_scanned_by_device_id": "null",
+    "friendly_name": "Nfc drupple Marco"
+  },
+  {
+    "Entity ID": "text.ir_remote_ir_code_to_send",
+    "Friendly Name": "IR Remote Ir code to send",
+    "BU8jnRE8AuAXAQGSBuAhA+ADAUA34AcBQBPAA0ABC5IGPALjmk8jvQg8Ag==\tmode": "text",
+    "min": "0",
+    "max": "255",
+    "pattern": "null",
+    "assumed_state": "true",
+    "friendly_name": "IR Remote Ir code to send"
+  },
+  {
+    "Entity ID": "todo.automations",
+    "Friendly Name": "Automations",
+    "1\tfriendly_name": "Automations",
+    "supported_features": "127"
+  },
+  {
+    "Entity ID": "tts.google_ai_tts",
+    "Friendly Name": "Google AI TTS",
+    "2025-07-07T16": "08:44.398312+00:00\tfriendly_name: Google AI TTS"
+  },
+  {
+    "Entity ID": "tts.google_translate_en_com",
+    "Friendly Name": "Google Translate en com",
+    "2025-06-15T12": "38:53.167513+00:00\tfriendly_name: Google Translate en com"
+  },
+  {
+    "Entity ID": "update.0x90395efffe479903",
+    "Friendly Name": "Ikea_Luchtreiniger",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "69633",
+    "in_progress": "false",
+    "latest_version": "69633",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "device_class": "firmware",
+    "entity_picture": "https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png",
+    "friendly_name": "Ikea_Luchtreiniger",
+    "supported_features": "5"
+  },
+  {
+    "Entity ID": "update.adaptive_lighting_update",
+    "Friendly Name": "Adaptive Lighting update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.26.0",
+    "in_progress": "false",
+    "latest_version": "v1.26.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/basnijholt/adaptive-lighting/releases/v1.26.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/adaptive_lighting/icon.png",
+    "friendly_name": "Adaptive Lighting update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.advanced_camera_card_update",
+    "Friendly Name": "Advanced Camera Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v7.14.1",
+    "in_progress": "false",
+    "latest_version": "v7.14.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/dermotduffy/advanced-camera-card/releases/v7.14.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Advanced Camera Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.advanced_ssh_web_terminal_update",
+    "Friendly Name": "Advanced SSH & Web Terminal Update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "21.0.2",
+    "in_progress": "false",
+    "latest_version": "21.0.2",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Advanced SSH & Web Terminal",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/a0d7b954_ssh/icon",
+    "friendly_name": "Advanced SSH & Web Terminal Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.afvalwijzer_update",
+    "Friendly Name": "Afvalwijzer update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2025.05.01",
+    "in_progress": "false",
+    "latest_version": "2025.05.01",
+    "release_summary": "null",
+    "release_url": "https://github.com/xirixiz/homeassistant-afvalwijzer/releases/2025.05.01",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/afvalwijzer/icon.png",
+    "friendly_name": "Afvalwijzer update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.appdaemon_update",
+    "Friendly Name": "AppDaemon Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "0.17.7",
+    "in_progress": "false",
+    "latest_version": "0.17.7",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "AppDaemon",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/a0d7b954_appdaemon/icon",
+    "friendly_name": "AppDaemon Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.auto_entities_update",
+    "Friendly Name": "auto-entities update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.16.1",
+    "in_progress": "false",
+    "latest_version": "v1.16.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/lovelace-auto-entities/releases/v1.16.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "auto-entities update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.bar_card_update",
+    "Friendly Name": "Bar Card update",
+    "unavailable\trestored": "true",
+    "friendly_name": "Bar Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.browser_mod_update",
+    "Friendly Name": "browser_mod update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v2.4.1",
+    "in_progress": "false",
+    "latest_version": "v2.4.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/hass-browser_mod/releases/v2.4.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/browser_mod/icon.png",
+    "friendly_name": "browser_mod update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.bubble_card_update",
+    "Friendly Name": "Bubble Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v3.0.0",
+    "in_progress": "false",
+    "latest_version": "v3.0.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/Clooos/Bubble-Card/releases/v3.0.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Bubble Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.button_card_update",
+    "Friendly Name": "button-card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v4.1.2",
+    "in_progress": "false",
+    "latest_version": "v4.1.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/custom-cards/button-card/releases/v4.1.2",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "button-card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.camera_update",
+    "Friendly Name": "Camera Update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.4.2 Build 250313 Rel.40499n",
+    "in_progress": "false",
+    "latest_version": "1.4.2 Build 250313 Rel.40499n",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/tapo_control/icon.png",
+    "friendly_name": "Camera Update",
+    "supported_features": "21"
+  },
+  {
+    "Entity ID": "update.card_mod_update",
+    "Friendly Name": "card-mod update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v3.4.5",
+    "in_progress": "false",
+    "latest_version": "v3.4.5",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/lovelace-card-mod/releases/v3.4.5",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "card-mod update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.catppuccin_theme_update",
+    "Friendly Name": "Catppuccin Theme update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.0.2",
+    "in_progress": "false",
+    "latest_version": "v1.0.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/catppuccin/home-assistant/releases/v1.0.2",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Catppuccin Theme update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.check_button_card_update",
+    "Friendly Name": "Check Button Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.3.0",
+    "in_progress": "false",
+    "latest_version": "1.3.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/custom-cards/check-button-card/releases/1.3.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Check Button Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.clock_weather_card_hui_icons_update",
+    "Friendly Name": "Clock Weather Card HUI Icons update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v3.0.10",
+    "in_progress": "false",
+    "latest_version": "v3.0.10",
+    "release_summary": "null",
+    "release_url": "https://github.com/samuelgoodell/clock-weather-card-hui-icons/releases/v3.0.10",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Clock Weather Card HUI Icons update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.config_template_card_update",
+    "Friendly Name": "Config Template Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.3.6",
+    "in_progress": "false",
+    "latest_version": "1.3.6",
+    "release_summary": "null",
+    "release_url": "https://github.com/iantrich/config-template-card/releases/1.3.6",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Config Template Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.custom_animated_weather_card_update",
+    "Friendly Name": "Custom Animated Weather Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.1.4",
+    "in_progress": "false",
+    "latest_version": "1.1.4",
+    "release_summary": "null",
+    "release_url": "https://github.com/DavidFW1960/bom-weather-card/releases/1.1.4",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Custom Animated Weather Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.custom_brand_icons_update",
+    "Friendly Name": "Custom brand icons update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2025.6.0",
+    "in_progress": "false",
+    "latest_version": "2025.6.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/elax46/custom-brand-icons/releases/2025.6.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Custom brand icons update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.custom_features_for_home_assistant_cards_update",
+    "Friendly Name": "Custom Features for Home Assistant Cards update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "4.5.1",
+    "in_progress": "false",
+    "latest_version": "4.5.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/Nerwyn/custom-card-features/releases/4.5.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Custom Features for Home Assistant Cards update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.custom_sidebar_update",
+    "Friendly Name": "Custom Sidebar update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v10.3.0",
+    "in_progress": "false",
+    "latest_version": "v10.3.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/elchininet/custom-sidebar/releases/v10.3.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Custom Sidebar update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.duck_dns_update",
+    "Friendly Name": "Duck DNS Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "1.19.0",
+    "in_progress": "false",
+    "latest_version": "1.19.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Duck DNS",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_duckdns/icon",
+    "friendly_name": "Duck DNS Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.f1_sensor_update",
+    "Friendly Name": "F1 Sensor update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.1.2",
+    "in_progress": "false",
+    "latest_version": "v1.1.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/Nicxe/f1_sensor/releases/v1.1.2",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/f1_sensor/icon.png",
+    "friendly_name": "F1 Sensor update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.file_editor_update",
+    "Friendly Name": "File editor Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "5.8.0",
+    "in_progress": "false",
+    "latest_version": "5.8.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "File editor",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_configurator/icon",
+    "friendly_name": "File editor Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.firemote_card_update",
+    "Friendly Name": "Firemote Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v4.1.8",
+    "in_progress": "false",
+    "latest_version": "v4.1.8",
+    "release_summary": "null",
+    "release_url": "https://github.com/PRProd/HA-Firemote/releases/v4.1.8",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Firemote Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.flashforge_adventurer_3_update",
+    "Friendly Name": "FlashForge Adventurer 3 update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.0.4",
+    "in_progress": "false",
+    "latest_version": "v1.0.4",
+    "release_summary": "null",
+    "release_url": "https://github.com/modrzew/hass-flashforge-adventurer-3/releases/v1.0.4",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/flashforge_adventurer_3/icon.png",
+    "friendly_name": "FlashForge Adventurer 3 update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.flashforge_adventurer_5_update",
+    "Friendly Name": "FlashForge Adventurer 5 update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "e424d4d",
+    "in_progress": "false",
+    "latest_version": "e424d4d",
+    "release_summary": "null",
+    "release_url": "https://github.com/kruzhkov/hass-flashforge-adventurer-5",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/flashforge_adventurer_5/icon.png",
+    "friendly_name": "FlashForge Adventurer 5 update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.flex_table_highly_customizable_data_visualization_update",
+    "Friendly Name": "Flex Table - Highly customizable, Data visualization update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v0.7.9",
+    "in_progress": "false",
+    "latest_version": "v0.7.9",
+    "release_summary": "null",
+    "release_url": "https://github.com/custom-cards/flex-table-card/releases/v0.7.9",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Flex Table - Highly customizable, Data visualization update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.fold_entity_row_update",
+    "Friendly Name": "fold-entity-row update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v.2.3.2",
+    "in_progress": "false",
+    "latest_version": "v.2.3.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/lovelace-fold-entity-row/releases/v.2.3.2",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "fold-entity-row update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.formula_one_card_update",
+    "Friendly Name": "Formula One Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.13.1",
+    "in_progress": "false",
+    "latest_version": "v1.13.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/marcokreeft87/formulaone-card/releases/v1.13.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Formula One Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.gallery_card_update",
+    "Friendly Name": "Gallery Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v3.5.1",
+    "in_progress": "false",
+    "latest_version": "v3.5.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/TarheelGrad1998/gallery-card/releases/v3.5.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Gallery Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.garbage_collection_card_update",
+    "Friendly Name": "Garbage Collection Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.24.1",
+    "in_progress": "false",
+    "latest_version": "1.24.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/amaximus/garbage-collection-card/releases/1.24.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Garbage Collection Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.gauge_card_pro_update",
+    "Friendly Name": "Gauge Card Pro update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.4.0",
+    "in_progress": "false",
+    "latest_version": "v1.4.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/benjamin-dcs/gauge-card-pro/releases/v1.4.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Gauge Card Pro update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.get_hacs_update",
+    "Friendly Name": "Get HACS Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "1.3.1",
+    "in_progress": "false",
+    "latest_version": "1.3.1",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Get HACS",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/cb646a50_get/icon",
+    "friendly_name": "Get HACS Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.google_assistant_sdk_custom_update",
+    "Friendly Name": "Google Assistant SDK Custom update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v0.1.4",
+    "in_progress": "false",
+    "latest_version": "v0.1.4",
+    "release_summary": "null",
+    "release_url": "https://github.com/tronikos/google_assistant_sdk_custom/releases/v0.1.4",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/google_assistant_sdk_custom/icon.png",
+    "friendly_name": "Google Assistant SDK Custom update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.hacs_update",
+    "Friendly Name": "HACS update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2.0.5",
+    "in_progress": "false",
+    "latest_version": "2.0.5",
+    "release_summary": "null",
+    "release_url": "https://github.com/hacs/integration/releases/2.0.5",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/hacs/icon.png",
+    "friendly_name": "HACS update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.hass_agent_mediaplayer_update",
+    "Friendly Name": "HASS.Agent MediaPlayer update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2022.10.26",
+    "in_progress": "false",
+    "latest_version": "2022.10.26",
+    "release_summary": "null",
+    "release_url": "https://github.com/LAB02-Research/HASS.Agent-MediaPlayer/releases/2022.10.26",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/hass_agent_mediaplayer/icon.png",
+    "friendly_name": "HASS.Agent MediaPlayer update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.hass_agent_notifier_update",
+    "Friendly Name": "HASS.Agent Notifier update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v2022.10.25.1",
+    "in_progress": "false",
+    "latest_version": "v2022.10.25.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/LAB02-Research/HASS.Agent-Notifier/releases/v2022.10.25.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/hass_agent_notifier/icon.png",
+    "friendly_name": "HASS.Agent Notifier update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.hass_agent_update",
+    "Friendly Name": "HASS.Agent update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v2022.11.9",
+    "in_progress": "false",
+    "latest_version": "v2022.11.9",
+    "release_summary": "null",
+    "release_url": "https://github.com/LAB02-Research/HASS.Agent-Integration/releases/v2022.11.9",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/hass_agent/icon.png",
+    "friendly_name": "HASS.Agent update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.home_assistant_core_update",
+    "Friendly Name": "Home Assistant Core Update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2025.7.1",
+    "in_progress": "false",
+    "latest_version": "2025.7.1",
+    "release_summary": "null",
+    "release_url": "https://www.home-assistant.io/latest-release-notes/",
+    "skipped_version": "null",
+    "title": "Home Assistant Core",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+    "friendly_name": "Home Assistant Core Update",
+    "supported_features": "11"
+  },
+  {
+    "Entity ID": "update.home_assistant_operating_system_update",
+    "Friendly Name": "Home Assistant Operating System Update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "15.2",
+    "in_progress": "false",
+    "latest_version": "15.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/home-assistant/operating-system/releases/tag/15.2",
+    "skipped_version": "null",
+    "title": "Home Assistant Operating System",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/homeassistant/icon.png",
+    "friendly_name": "Home Assistant Operating System Update",
+    "supported_features": "11"
+  },
+  {
+    "Entity ID": "update.home_assistant_supervisor_update",
+    "Friendly Name": "Home Assistant Supervisor Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "2025.06.2",
+    "in_progress": "false",
+    "latest_version": "2025.06.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/home-assistant/supervisor/releases/tag/2025.06.2",
+    "skipped_version": "null",
+    "title": "Home Assistant Supervisor",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/hassio/icon.png",
+    "friendly_name": "Home Assistant Supervisor Update",
+    "supported_features": "1"
+  },
+  {
+    "Entity ID": "update.ikea_lamp_bureau",
+    "Friendly Name": "IKEA lamp bureau",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "16777284",
+    "in_progress": "false",
+    "latest_version": "16777284",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "device_class": "firmware",
+    "entity_picture": "https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png",
+    "friendly_name": "IKEA lamp bureau",
+    "supported_features": "5"
+  },
+  {
+    "Entity ID": "update.ikea_remote",
+    "Friendly Name": "IKEA remote",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "33816599",
+    "in_progress": "false",
+    "latest_version": "33816599",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "device_class": "firmware",
+    "entity_picture": "https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png",
+    "friendly_name": "IKEA remote",
+    "supported_features": "5"
+  },
+  {
+    "Entity ID": "update.ikea_stopcontact",
+    "Friendly Name": "IKEA stopcontact",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "33816645",
+    "in_progress": "false",
+    "latest_version": "33816645",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "device_class": "firmware",
+    "entity_picture": "https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png",
+    "friendly_name": "IKEA stopcontact",
+    "supported_features": "5"
+  },
+  {
+    "Entity ID": "update.ios_themes_dark_mode_and_light_mode_update",
+    "Friendly Name": "iOS Themes - Dark Mode and Light Mode update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v3.0.1",
+    "in_progress": "false",
+    "latest_version": "v3.0.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/basnijholt/lovelace-ios-themes/releases/v3.0.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "iOS Themes - Dark Mode and Light Mode update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.kiosk_mode_update",
+    "Friendly Name": "Kiosk Mode update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v7.1.0",
+    "in_progress": "false",
+    "latest_version": "v7.1.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/NemesisRE/kiosk-mode/releases/v7.1.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Kiosk Mode update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.kleenex_pollen_radar_update",
+    "Friendly Name": "Kleenex Pollen Radar update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.2.0",
+    "in_progress": "false",
+    "latest_version": "v1.2.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/MarcoGos/kleenex_pollenradar/releases/v1.2.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/kleenex_pollenradar/icon.png",
+    "friendly_name": "Kleenex Pollen Radar update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.klimaat",
+    "Friendly Name": "Klimaat",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "16777233",
+    "in_progress": "false",
+    "latest_version": "16777233",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "device_class": "firmware",
+    "entity_picture": "https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png",
+    "friendly_name": "Klimaat",
+    "supported_features": "5"
+  },
+  {
+    "Entity ID": "update.light_card_hue_feature_update",
+    "Friendly Name": "Light Card Hue Feature update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.0.0",
+    "in_progress": "false",
+    "latest_version": "1.0.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/silvanocerza/light-card-hue-feature/releases/1.0.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Light Card Hue Feature update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.macos_theme_based_on_the_system_wide_light_and_dark_mode_ui_update",
+    "Friendly Name": "macOS Theme - Based on the system-wide light and dark mode UI update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.4",
+    "in_progress": "false",
+    "latest_version": "v1.4",
+    "release_summary": "null",
+    "release_url": "https://github.com/JuanMTech/macOS-Theme/releases/v1.4",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "macOS Theme - Based on the system-wide light and dark mode UI update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.matter_server_update",
+    "Friendly Name": "Matter Server Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "8.0.0",
+    "in_progress": "false",
+    "latest_version": "8.0.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Matter Server",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_matter_server/icon",
+    "friendly_name": "Matter Server Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.mini_graph_card_update",
+    "Friendly Name": "mini-graph-card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v0.13.0",
+    "in_progress": "false",
+    "latest_version": "v0.13.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/kalkih/mini-graph-card/releases/v0.13.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "mini-graph-card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.mini_media_player_update",
+    "Friendly Name": "Mini Media Player update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.16.9",
+    "in_progress": "false",
+    "latest_version": "v1.16.9",
+    "release_summary": "null",
+    "release_url": "https://github.com/kalkih/mini-media-player/releases/v1.16.9",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Mini Media Player update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.mosquitto_broker_update",
+    "Friendly Name": "Mosquitto broker Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "6.5.1",
+    "in_progress": "false",
+    "latest_version": "6.5.1",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Mosquitto broker",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_mosquitto/icon",
+    "friendly_name": "Mosquitto broker Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.motion_sensor",
+    "Friendly Name": "Motion Sensor",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "16777316",
+    "in_progress": "false",
+    "latest_version": "16777316",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "device_class": "firmware",
+    "entity_picture": "https://github.com/Koenkk/zigbee2mqtt/raw/master/images/logo.png",
+    "friendly_name": "Motion Sensor",
+    "supported_features": "5"
+  },
+  {
+    "Entity ID": "update.mqtt_io_update",
+    "Friendly Name": "MQTT IO Update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "0.4.0",
+    "in_progress": "false",
+    "latest_version": "0.4.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "MQTT IO",
+    "update_percentage": "null",
+    "friendly_name": "MQTT IO Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.mushroom_better_sliders_update",
+    "Friendly Name": "Mushroom - Better Sliders update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v3.0.2",
+    "in_progress": "false",
+    "latest_version": "v3.0.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/phischdev/lovelace-mushroom-better-sliders/releases/v3.0.2",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Mushroom - Better Sliders update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.mushroom_themes_update",
+    "Friendly Name": "Mushroom Themes update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v0.0.10",
+    "in_progress": "false",
+    "latest_version": "v0.0.10",
+    "release_summary": "null",
+    "release_url": "https://github.com/piitaya/lovelace-mushroom-themes/releases/v0.0.10",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Mushroom Themes update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.music_assistant_server_update",
+    "Friendly Name": "Music Assistant Server Update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2.5.5",
+    "in_progress": "false",
+    "latest_version": "2.5.5",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Music Assistant Server",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/d5369777_music_assistant/icon",
+    "friendly_name": "Music Assistant Server Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.nginx_home_assistant_ssl_proxy_update",
+    "Friendly Name": "NGINX Home Assistant SSL proxy Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "3.13.0",
+    "in_progress": "false",
+    "latest_version": "3.13.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "NGINX Home Assistant SSL proxy",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_nginx_proxy/icon",
+    "friendly_name": "NGINX Home Assistant SSL proxy Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.node_red_companion_update",
+    "Friendly Name": "Node-RED Companion update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v4.1.2",
+    "in_progress": "false",
+    "latest_version": "v4.1.2",
+    "release_summary": "null",
+    "release_url": "https://github.com/zachowj/hass-node-red/releases/v4.1.2",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/nodered/icon.png",
+    "friendly_name": "Node-RED Companion update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.node_red_update",
+    "Friendly Name": "Node-RED Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "20.0.0",
+    "in_progress": "false",
+    "latest_version": "20.0.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Node-RED",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/a0d7b954_nodered/icon",
+    "friendly_name": "Node-RED Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.passive_ble_monitor_integration_update",
+    "Friendly Name": "Passive BLE monitor integration update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "13.7.1",
+    "in_progress": "false",
+    "latest_version": "13.7.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/custom-components/ble_monitor/releases/13.7.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/ble_monitor/icon.png",
+    "friendly_name": "Passive BLE monitor integration update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.roomba_vacuum_card_update",
+    "Friendly Name": "Roomba Vacuum Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "0.12",
+    "in_progress": "false",
+    "latest_version": "0.12",
+    "release_summary": "null",
+    "release_url": "https://github.com/jeremywillans/lovelace-roomba-vacuum-card/releases/0.12",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Roomba Vacuum Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.rpc_shutdown_update",
+    "Friendly Name": "RPC Shutdown Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "2.5",
+    "in_progress": "false",
+    "latest_version": "2.5",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "RPC Shutdown",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_rpc_shutdown/icon",
+    "friendly_name": "RPC Shutdown Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.samba_share_update",
+    "Friendly Name": "Samba share Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "12.5.2",
+    "in_progress": "false",
+    "latest_version": "12.5.2",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Samba share",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/core_samba/icon",
+    "friendly_name": "Samba share Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.simple_clock_card_update",
+    "Friendly Name": "Simple Clock Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.8",
+    "in_progress": "false",
+    "latest_version": "1.8",
+    "release_summary": "null",
+    "release_url": "https://github.com/fufar/simple-clock-card/releases/1.8",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Simple Clock Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.simple_swipe_card_update",
+    "Friendly Name": "Simple Swipe Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.7.1",
+    "in_progress": "false",
+    "latest_version": "v1.7.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/nutteloost/simple-swipe-card/releases/v1.7.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Simple Swipe Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.simple_weather_card_update",
+    "Friendly Name": "Simple Weather Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v0.8.5",
+    "in_progress": "false",
+    "latest_version": "v0.8.5",
+    "release_summary": "null",
+    "release_url": "https://github.com/kalkih/simple-weather-card/releases/v0.8.5",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Simple Weather Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.slider_entity_row_update",
+    "Friendly Name": "slider-entity-row update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "17.4.1",
+    "in_progress": "false",
+    "latest_version": "17.4.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/lovelace-slider-entity-row/releases/17.4.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "slider-entity-row update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.spotcast_update",
+    "Friendly Name": "Spotcast update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v4.0.1",
+    "in_progress": "false",
+    "latest_version": "v4.0.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/fondberg/spotcast/releases/v4.0.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/spotcast/icon.png",
+    "friendly_name": "Spotcast update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.spotify_connect_update",
+    "Friendly Name": "Spotify Connect Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "0.15.0",
+    "in_progress": "false",
+    "latest_version": "0.15.0",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Spotify Connect",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/a0d7b954_spotify/icon",
+    "friendly_name": "Spotify Connect Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "update.spotify_lovelace_card_update",
+    "Friendly Name": "Spotify Lovelace Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v2.4.0",
+    "in_progress": "false",
+    "latest_version": "v2.4.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/custom-cards/spotify-card/releases/v2.4.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Spotify Lovelace Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.stack_in_card_update",
+    "Friendly Name": "Stack In Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "0.2.0",
+    "in_progress": "false",
+    "latest_version": "0.2.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/custom-cards/stack-in-card/releases/0.2.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Stack In Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.state_switch_update",
+    "Friendly Name": "state-switch update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.9.5",
+    "in_progress": "false",
+    "latest_version": "1.9.5",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/lovelace-state-switch/releases/1.9.5",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "state-switch update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.tapo_cameras_control_update",
+    "Friendly Name": "Tapo: Cameras Control update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "6.1.9",
+    "in_progress": "false",
+    "latest_version": "6.1.9",
+    "release_summary": "null",
+    "release_url": "https://github.com/JurajNyiri/HomeAssistant-Tapo-Control/releases/6.1.9",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/tapo_control/icon.png",
+    "friendly_name": "Tapo: Cameras Control update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.template_entity_row_update",
+    "Friendly Name": "template-entity-row update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.4.1",
+    "in_progress": "false",
+    "latest_version": "v1.4.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/thomasloven/lovelace-template-entity-row/releases/v1.4.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "template-entity-row update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.text_divider_row_update",
+    "Friendly Name": "Text Divider Row update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "1.4.1",
+    "in_progress": "false",
+    "latest_version": "1.4.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/iantrich/text-divider-row/releases/1.4.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Text Divider Row update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.threedy_update",
+    "Friendly Name": "threedy update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2025.6.0",
+    "in_progress": "false",
+    "latest_version": "2025.6.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/xZetsubou/ha-threedy-card/releases/2025.6.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "threedy update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.timer_bar_card_update",
+    "Friendly Name": "Timer Bar Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.31.1",
+    "in_progress": "false",
+    "latest_version": "v1.31.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/rianadon/timer-bar-card/releases/v1.31.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Timer Bar Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.trashcard_update",
+    "Friendly Name": "TrashCard update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2.4.7",
+    "in_progress": "false",
+    "latest_version": "2.4.7",
+    "release_summary": "null",
+    "release_url": "https://github.com/idaho/hassio-trash-card/releases/2.4.7",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "TrashCard update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.universal_remote_card_update",
+    "Friendly Name": "Universal Remote Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "4.6.1",
+    "in_progress": "false",
+    "latest_version": "4.6.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/Nerwyn/universal-remote-card/releases/4.6.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Universal Remote Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.vertical_stack_in_card_update",
+    "Friendly Name": "Vertical Stack In Card update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v1.0.1",
+    "in_progress": "false",
+    "latest_version": "v1.0.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/ofekashery/vertical-stack-in-card/releases/v1.0.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Vertical Stack In Card update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.waste_collection_schedule_update",
+    "Friendly Name": "Waste Collection Schedule update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "2.9.0",
+    "in_progress": "false",
+    "latest_version": "2.9.0",
+    "release_summary": "<ha-alert alert-type='error'>Restart of Home Assistant required</ha-alert>",
+    "release_url": "https://github.com/mampfes/hacs_waste_collection_schedule/releases/2.9.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/waste_collection_schedule/icon.png",
+    "friendly_name": "Waste Collection Schedule update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.waves_update",
+    "Friendly Name": "Waves update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v2.4.1",
+    "in_progress": "false",
+    "latest_version": "v2.4.1",
+    "release_summary": "null",
+    "release_url": "https://github.com/tgcowell/waves/releases/v2.4.1",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Waves update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.yet_another_media_player_update",
+    "Friendly Name": "Yet Another Media Player update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "v20.1.0",
+    "in_progress": "false",
+    "latest_version": "v20.1.0",
+    "release_summary": "null",
+    "release_url": "https://github.com/jianyu-li/yet-another-media-player/releases/v20.1.0",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "friendly_name": "Yet Another Media Player update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.ytube_music_player_update",
+    "Friendly Name": "ytube_music_player update",
+    "off\tauto_update": "false",
+    "display_precision": "0",
+    "installed_version": "20250704.03",
+    "in_progress": "false",
+    "latest_version": "20250704.03",
+    "release_summary": "null",
+    "release_url": "https://github.com/KoljaWindeler/ytube_music_player/releases/20250704.03",
+    "skipped_version": "null",
+    "title": "null",
+    "update_percentage": "null",
+    "entity_picture": "https://brands.home-assistant.io/_/ytube_music_player/icon.png",
+    "friendly_name": "ytube_music_player update",
+    "supported_features": "23"
+  },
+  {
+    "Entity ID": "update.zigbee2mqtt_update",
+    "Friendly Name": "Zigbee2MQTT Update",
+    "off\tauto_update": "true",
+    "display_precision": "0",
+    "installed_version": "2.5.1-1",
+    "in_progress": "false",
+    "latest_version": "2.5.1-1",
+    "release_summary": "null",
+    "release_url": "null",
+    "skipped_version": "null",
+    "title": "Zigbee2MQTT",
+    "update_percentage": "null",
+    "entity_picture": "/api/hassio/addons/45df7312_zigbee2mqtt/icon",
+    "friendly_name": "Zigbee2MQTT Update",
+    "supported_features": "25"
+  },
+  {
+    "Entity ID": "vacuum.gerard",
+    "Friendly Name": "R2D2",
+    "docked\tbattery_level": "100",
+    "battery_icon": "mdi:battery-charging-100",
+    "software_version": "v2.4.17-138",
+    "status": "null",
+    "position": "(624, 169, 137)",
+    "bin_present": "true",
+    "bin_full": "false",
+    "friendly_name": "R2D2",
+    "supported_features": "13148"
+  },
+  {
+    "Entity ID": "weather.buienradar",
+    "Friendly Name": "Buienradar",
+    "cloudy\ttemperature": "16",
+    "apparent_temperature": "16",
+    "temperature_unit": "°C",
+    "humidity": "73",
+    "pressure_unit": "hPa",
+    "wind_bearing": "321",
+    "wind_gust_speed": "39.24",
+    "wind_speed": "23.4",
+    "wind_speed_unit": "km/h",
+    "visibility_unit": "km",
+    "precipitation_unit": "mm",
+    "attribution": "Data provided by buienradar.nl",
+    "friendly_name": "Buienradar",
+    "supported_features": "1"
+  },
+  {
+    "Entity ID": "weather.forecast_thuis",
+    "Friendly Name": "Forecast Thuis",
+    "cloudy\ttemperature": "16.3",
+    "dew_point": "13.3",
+    "temperature_unit": "°C",
+    "humidity": "82",
+    "cloud_coverage": "99.3",
+    "uv_index": "2.8",
+    "pressure": "1005.3",
+    "pressure_unit": "mbar",
+    "wind_bearing": "328.7",
+    "wind_gust_speed": "32",
+    "wind_speed": "17.6",
+    "wind_speed_unit": "km/h",
+    "visibility_unit": "km",
+    "precipitation_unit": "mm",
+    "attribution": "Weather forecast from met.no, delivered by the Norwegian Meteorological Institute.",
+    "friendly_name": "Forecast Thuis",
+    "supported_features": "3"
+  },
+  {
+    "Entity ID": "zone.dictu_werk",
+    "Friendly Name": "DICTU | Werk",
+    "0\tlatitude": "52.97567053318772",
+    "longitude": "6.559329072259885",
+    "radius": "194",
+    "passive": "false",
+    "persons": "",
+    "editable": "true",
+    "icon": "mdi:briefcase",
+    "friendly_name": "DICTU | Werk"
+  },
+  {
+    "Entity ID": "zone.home",
+    "Friendly Name": "Thuis",
+    "2\tlatitude": "53.1466235",
+    "longitude": "7.0350802",
+    "radius": "41",
+    "passive": "false",
+    "persons": "person.blauwestad, person.mama",
+    "editable": "true",
+    "icon": "mdi:home",
+    "friendly_name": "Thuis"
+  },
+  {
+    "Entity ID": "zone.kofbal",
+    "Friendly Name": "Kofbal",
+    "0\tlatitude": "52.989906644945876",
+    "longitude": "6.969859601960425",
+    "radius": "147",
+    "passive": "false",
+    "persons": "",
+    "editable": "true",
+    "icon": "mdi:basketball",
+    "friendly_name": "Kofbal"
+  }
+]
